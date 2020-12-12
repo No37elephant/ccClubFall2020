@@ -1,0 +1,401 @@
+	name	rating	address	url
+0	Savior Lounge Bar 救世主小酒館	4.6	臺北市萬華區漢口街二段34巷10號	https://ifoodie.tw/restaurant/5ea996c48c906d139203ece3-Savior-Lounge-Bar-%E6%95%91%E4%B8%96
+1	瑰秘餐酒館	4.5	臺北市信義區基隆路二段149之53號	https://ifoodie.tw/restaurant/5ae75b132756dd5d801dab91-%E7%91%B0%E7%A7%98%E9%A4%90%E9%85%92%E9%A4%A8
+2	Tiny Beertail Bar	4.8	臺北市中山區合江街133號	https://ifoodie.tw/restaurant/5fc0b90dd6895d227bf60f69-Tiny-Beertail-Bar
+3	Restaurant Page 頁小館	4.6	臺北市中山區北安路595巷20弄4號1樓	https://ifoodie.tw/restaurant/57740e682756dd5158c80645-Restaurant-Page-%E9%A0%81%E5%B0%8F%E9%A4%A8
+4	The 58 Bar - 台灣自釀啤酒專賣	4.4	臺北市萬華區開封街二段58號	https://ifoodie.tw/restaurant/57d057ac2756dd05d485aaa1-The-58-Bar-%E5%8F%B0%E7%81%A3%E8%87%AA%E9%87%80%E5%95%A4%E9%85%92%E5%B0%88%E8%B3%A3
+5	K.D Bistro Taipei	4.7	臺北市大安區光復南路346巷21號	https://ifoodie.tw/restaurant/5e255ffcd6895d5a1e47c0a2-K.D-Bistro-Taipei
+6	法租界 L.C Française 餐酒館	4.4	臺北市大安區敦化南路一段187巷45之2號	https://ifoodie.tw/restaurant/5d3a68b62261394b870b7c9e-%E6%B3%95%E7%A7%9F%E7%95%8C-L.C-Fran%C3%A7aise-%E9%A4%90%E9%85%92
+7	ABV% 加勒比海 精釀啤酒餐廳	4.7	臺北市大安區敦化南路一段233巷61號	https://ifoodie.tw/restaurant/5762eb672756dd1d469e4b97-ABV-%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7-%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E9%A4%90%E5%BB%B3
+8	O Steak 歐牛排 法式餐酒館	4.2	台北市大安區金華街164巷1弄6號	https://ifoodie.tw/restaurant/57b89c7a2756dd1a86feda8b-O-Steak-%E6%AD%90%E7%89%9B%E6%8E%92-%E6%B3%95%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8
+9	黑熊愛跳舞	4.2	臺北市大安區基隆路二段225號	https://ifoodie.tw/restaurant/588797f92756dd3ab2f6b904-%E9%BB%91%E7%86%8A%E6%84%9B%E8%B7%B3%E8%88%9E
+10	台韓民國 韓式燒肉店	4.1	臺北市大安區忠孝東路四段170巷6弄7號	https://ifoodie.tw/restaurant/57ed594b2756dd0d0ef56442-%E5%8F%B0%E9%9F%93%E6%B0%91%E5%9C%8B-%E9%9F%93%E5%BC%8F%E7%87%92%E8%82%89%E5%BA%97
+11	Mr. BEAN Taipei	4.4	臺北市大安區仁愛路四段445號	https://ifoodie.tw/restaurant/5ca372252756dd62daaf41bd-Mr.-BEAN-Taipei
+12	誠鮨	4.6	臺北市中山區建國北路二段32號	https://ifoodie.tw/restaurant/5a677a9c2756dd60a4223156-%E8%AA%A0%E9%AE%A8
+13	阿郎薄皮餃子台式小酒館	4.5	臺北市大安區忠孝東路四段177號2號樓之2	https://ifoodie.tw/restaurant/5f0485002756dd1ba07ed274-%E9%98%BF%E9%83%8E%E8%96%84%E7%9A%AE%E9%A4%83%E5%AD%90%E5%8F%B0%E5%BC%8F%E5%B0%8F%E9%85%92%E9%A4%A8
+14	榕RON Cafe	4.2	臺北市士林區中山北路五段461巷21號	https://ifoodie.tw/restaurant/559d7abdc03a103ee86c7df8-%E6%A6%95RON-Cafe
+15	À Point 艾朋牛排餐酒館	4.5	臺北市信義區忠孝東路五段139號2樓	https://ifoodie.tw/restaurant/59456f762756dd524dd08e03-%C3%80-Point-%E8%89%BE%E6%9C%8B%E7%89%9B%E6%8E%92%E9%A4%90%E9%85%92%E9%A4%A8
+16	ONCE Cafe & Bar	4.6	臺北市萬華區西寧南路82巷2號	https://ifoodie.tw/restaurant/5ca372142756dd62daaf41b7-ONCE-Cafe-%26-Bar
+17	AgustoChef  餐酒館 大安店	4.7	臺北市大安區忠孝東路四段216巷27弄15號1樓	https://ifoodie.tw/restaurant/5f9027ca8c906d5fa569868c-AgustoChef-%E9%A4%90%E9%85%92%E9%A4%A8-%E5%A4%A7%E5%AE%89%E5%BA%97
+18	杯盃 PuiBui Cafe & Lounge	4.7	臺北市大安區信義路四段30巷48號	https://ifoodie.tw/restaurant/5fb28077d6895d036417ea89-%E6%9D%AF%E7%9B%83-PuiBui-Cafe-%26-Lou
+19	Waiting Bistro	4.5	台北市大安區忠孝東路三段251巷13弄6號1樓	https://ifoodie.tw/restaurant/5703c9d7699b6e5e09ac4f08-Waiting-Bistro
+20	Le Ming麵食精釀餐酒館 台北中山店	4.6	臺北市中山區中山北路一段135巷1號	https://ifoodie.tw/restaurant/5f3d35962756dd0a83ee64b4-Le-Ming%E9%BA%B5%E9%A3%9F%E7%B2%BE%E9%87%80%E9%A4%90%E9%85%92%E9%A4%A8-%E5%8F%B0%E5%8C%97%E4%B8%AD%E5%B1%B1%E5%BA%97
+21	LORE Taipei	4.2	臺北市中正區信義路二段259號1樓	https://ifoodie.tw/restaurant/5f9be7eb2261392f566e483a-LORE-Taipei
+22	Bottless 非瓶	4.4	台北市松山區慶城街26號	https://ifoodie.tw/restaurant/5eb111abd6895d1de0e5f46b-Bottless-%E9%9D%9E%E7%93%B6
+23	Parko Parco 義大利牛肚包 中山店	4.5	臺北市大同區赤峰街8巷20之1號	https://ifoodie.tw/restaurant/5f8afe1d2756dd258386b935-Parko-Parco-%E7%BE%A9%E5%A4%A7%E5%88%A9%E7%89%9B%E8%82%9A%E5%8C%85-%E4%B8%AD
+24	Last Order 餐酒館	4.6	臺北市萬華區漢口街二段75之1號	https://ifoodie.tw/restaurant/5a60e2b72756dd60a421a22d-Last-Order-%E9%A4%90%E9%85%92%E9%A4%A8
+25	噶瑪蘭威士忌酒吧	4.8	臺北市中山區南京東路二段1號2樓	https://ifoodie.tw/restaurant/5f5b88102756dd155d8f10dc-%E5%99%B6%E7%91%AA%E8%98%AD%E5%A8%81%E5%A3%AB%E5%BF%8C%E9%85%92%E5%90%A7
+26	南村｜私廚‧小酒棧	4.5	臺北市大安區忠孝東路四段216巷33弄10號	https://ifoodie.tw/restaurant/5867f4b62756dd7579b8f434-%E5%8D%97%E6%9D%91%EF%BD%9C%E7%A7%81%E5%BB%9A%E2%80%A7%E5%B0%8F%E9%85%92%E6%A3%A7
+27	Book ing bar	4.7	台北市大安區仁愛路四段345巷15弄10號	https://ifoodie.tw/restaurant/5bab332923679c79775b6751-Book-ing-bar
+28	CHENDU 94 心肝寶貝	4.6	台北市萬華區成都路94號	https://ifoodie.tw/restaurant/5d7b151c8c906d410ea08e97-CHENDU-94-%E5%BF%83%E8%82%9D%E5%AF%B6%E8%B2%9D
+29	童裏心柑仔店ÖMAR放感情	4.8	臺北市大安區忠孝東路四段223巷20弄3號	https://ifoodie.tw/restaurant/5e8705802261395ba4b0b51c-%E7%AB%A5%E8%A3%8F%E5%BF%83%E6%9F%91%E4%BB%94%E5%BA%97%C3%96MAR%E6%94%BE%E6%84%9F%E6%83%85
+30	Ulove羽樂歐陸創意料理	4.7	臺北市松山區南京東路四段162號	https://ifoodie.tw/restaurant/5ae367632756dd3a035aa679-Ulove%E7%BE%BD%E6%A8%82%E6%AD%90%E9%99%B8%E5%89%B5%E6%84%8F%E6%96%99%E7%90%86
+31	She_Design tapas soju bar	4.5	臺北市信義區基隆路一段127號	https://ifoodie.tw/restaurant/57d59cf22756dd05d585abd8-She_Design-tapas-soj
+32	Joseph Bistro 想想廚房	4.3	臺北市中山區松江路69巷13號	https://ifoodie.tw/restaurant/55a5fbe6c03a102ec1415c9e-Joseph-Bistro-%E6%83%B3%E6%83%B3%E5%BB%9A%E6%88%BF
+33	大亨餐酒館 Rich Restaurant	4.7	臺北市中山區天津街63號1樓	https://ifoodie.tw/restaurant/5f6d90fa2261393eb5508871-%E5%A4%A7%E4%BA%A8%E9%A4%90%E9%85%92%E9%A4%A8-Rich-Restauran
+34	福旺珈琲餐館 Food-Wong Cafe'	4.6	臺北市信義區忠孝東路五段524巷一弄7號	https://ifoodie.tw/restaurant/5d8a26612756dd52a98c48b8-%E7%A6%8F%E6%97%BA%E7%8F%88%E7%90%B2%E9%A4%90%E9%A4%A8-Food-Wong-Caf
+35	BarTwo Taipei 吧吐	4.8	臺北市中山區新生北路二段68巷11號	https://ifoodie.tw/restaurant/5f982d0e2756dd19316438e0-BarTwo-Taipei-%E5%90%A7%E5%90%90
+36	木衛二 醫務所	4.2	臺北市大安區光復南路280巷46號1樓	https://ifoodie.tw/restaurant/5f52fdde2756dd18d60489f6-%E6%9C%A8%E8%A1%9B%E4%BA%8C-%E9%86%AB%E5%8B%99%E6%89%80
+37	Thaï.J ATT	4.2	臺北市信義區松壽路12號10樓	https://ifoodie.tw/restaurant/5a47a44923679c1fb30f44a1-Tha%C3%AF.J-ATT
+38	時光小酒館 Bistro	4.9	臺北市中山區八德路二段289號	https://ifoodie.tw/restaurant/5f3006832756dd48e1dd680a-%E6%99%82%E5%85%89%E5%B0%8F%E9%85%92%E9%A4%A8-Bistro
+39	Clear-Cut Bar	5.0	臺北市信義區嘉興街12號	https://ifoodie.tw/restaurant/5efea5372261397a935c81c4-Clear-Cut-Bar
+40	Open開房間桌遊餐酒館	4.8	臺北市大安區辛亥路二段145號一樓	https://ifoodie.tw/restaurant/5f3f459002935e4d2651cc85-Open%E9%96%8B%E6%88%BF%E9%96%93%E6%A1%8C%E9%81%8A%E9%A4%90%E9%85%92%E9%A4%A8
+41	燒桶子韓風立燒	4.3	臺北市大安區延吉街99號	https://ifoodie.tw/restaurant/559d48c7c03a103ee86c5d17-%E7%87%92%E6%A1%B6%E5%AD%90%E9%9F%93%E9%A2%A8%E7%AB%8B%E7%87%92
+42	光一肆號	4.2	臺北市大安區新生南路三段76巷2號	https://ifoodie.tw/restaurant/5ad3752222613912b901ea63-%E5%85%89%E4%B8%80%E8%82%86%E8%99%9F
+43	HOLOLAND Shisha Lounge	4.7	臺北市大安區忠孝東路四段181巷35弄8號	https://ifoodie.tw/restaurant/5f882dc7d6895d5b7ed2550a-HOLOLAND-Shisha-Loun
+44	心潮飯店 Sinchao Rice Shoppe	4.1	臺北市信義區忠孝東路五段68號2樓	https://ifoodie.tw/restaurant/5e3d729e2756dd6fdd794ecc-%E5%BF%83%E6%BD%AE%E9%A3%AF%E5%BA%97-Sinchao-Rice-Sh
+45	TEXAS ROADHOUSE 德州鮮切牛排	3.8	臺北市信義區松高路16號3樓	https://ifoodie.tw/restaurant/559d6b5ec03a103ee86c7403-TEXAS-ROADHOUSE-%E5%BE%B7%E5%B7%9E%E9%AE%AE%E5%88%87
+46	Night Eleven	4.8	臺北市信義區吳興街284巷8號之3號	https://ifoodie.tw/restaurant/5d68fc41d6895d659882cf3d-Night-Eleven
+47	獅旨 日式餐酒 Lionz dining sake bar	4.8	臺北市大安區大安路一段51巷45號	https://ifoodie.tw/restaurant/5f4faa962756dd2485e73472-%E7%8D%85%E6%97%A8-%E6%97%A5%E5%BC%8F%E9%A4%90%E9%85%92-Lionz-dining
+48	台北酒驛 Turnout Taipei	4.7	臺北市松山區南京東路五段83號	https://ifoodie.tw/restaurant/5d480eee8c906d6504d79ebe-%E5%8F%B0%E5%8C%97%E9%85%92%E9%A9%9B-Turnout-Taipei
+49	Time's Eat	4.3	臺北市士林區中正路223巷11號	https://ifoodie.tw/restaurant/55e498ba2756dd5141aeeaf9-Time's-Eat
+50	ULV Restaurant and Bar	4.5	臺北市大安區敦化南路一段160巷18號一樓	https://ifoodie.tw/restaurant/5cca9f7b2261396fc7ac624c-ULV-Restaurant-and-B
+51	Maison家 Chinese fusion	4.6	臺北市大安區光復南路290巷41號	https://ifoodie.tw/restaurant/5b200be12756dd3ae46a63af-Maison%E5%AE%B6-Chinese-fusi
+52	交易室 TRADERS' SOCIETY	4.5	臺北市松山區市民大道四段15號1樓	https://ifoodie.tw/restaurant/5f7b2c022756dd2e8ab5aed3-%E4%BA%A4%E6%98%93%E5%AE%A4-TRADERS'-SOCIETY
+53	GiliGili KOREA Bbq&rice韓國釜山餐酒館	4.2	臺北市中山區天津街16號	https://ifoodie.tw/restaurant/586be9d32756dd757bb8f8e3-GiliGili-KOREA-Bbq%26r
+54	Cantine Marais 瑪黑餐酒	4.7	臺北市松山區八德路三段8巷36號1F	https://ifoodie.tw/restaurant/5f7da2a502935e4c18075d23-Cantine-Marais-%E7%91%AA%E9%BB%91%E9%A4%90%E9%85%92
+55	拉圖爾酒廠餐廳La Tour Bistronomy	4.5	臺北市中正區延平南路84巷8號	https://ifoodie.tw/restaurant/5e2314802756dd6166092134-%E6%8B%89%E5%9C%96%E7%88%BE%E9%85%92%E5%BB%A0%E9%A4%90%E5%BB%B3La-Tour-Bistr
+56	英雄塚	4.8	臺北市信義區松隆路9巷32號	https://ifoodie.tw/restaurant/5d244e5e2261393c4e34a9c1-%E8%8B%B1%E9%9B%84%E5%A1%9A
+57	Bar Weekend	4.8	臺北市大安區信義路三段147巷18號	https://ifoodie.tw/restaurant/5e7f304ed6895d46c24c44f6-Bar-Weekend
+58	DOMANI	4.4	臺北市大安區建國南路一段65巷7號	https://ifoodie.tw/restaurant/58e490a4f524681f90fb03c0-DOMANI
+59	Aloft  雅樂軒酒店  WXYZ Bar	4.3	臺北市中山區雙城街1號	https://ifoodie.tw/restaurant/5730d1962756dd72d0f6837a-Aloft-%E9%9B%85%E6%A8%82%E8%BB%92%E9%85%92%E5%BA%97-WXYZ-Bar
+60	Bar Mood Taipei 吧沐	4.5	臺北市大安區敦化南路一段160巷53號	https://ifoodie.tw/restaurant/5ecfc9342756dd07a27ff04a-Bar-Mood-Taipei-%E5%90%A7%E6%B2%90
+61	JAPOLI義大利餐酒館	4.6	臺北市大安區忠孝東路四段49巷2號B1	https://ifoodie.tw/restaurant/5633b2ad2756dd46cfcfdc6c-JAPOLI%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E9%85%92%E9%A4%A8
+62	花酒藏	4.5	臺北市大安區安和路一段33號	https://ifoodie.tw/restaurant/559de16fc03a103ee86cb9ae-%E8%8A%B1%E9%85%92%E8%97%8F
+63	甘釜京燒肉韓食餐酒館 市民店	4.8	臺北市松山區市民大道四段133號	https://ifoodie.tw/restaurant/5f6cac022756dd64f219f64c-%E7%94%98%E9%87%9C%E4%BA%AC%E7%87%92%E8%82%89%E9%9F%93%E9%A3%9F%E9%A4%90%E9%85%92%E9%A4%A8-%E5%B8%82%E6%B0%91%E5%BA%97
+64	Schumann's Bistro No. 6 南京店	4.3	臺北市松山區南京東路三段303巷8弄11號	https://ifoodie.tw/restaurant/5de7417a8c906d1d1903367d-Schumann's-Bistro-No
+65	ABV Bar & Kitchen 酒精濃度 地中海餐廳	4.7	臺北市大安區光復南路260巷39號	https://ifoodie.tw/restaurant/55b9419940b5e303a1d567eb-ABV-Bar-%26-Kitchen-%E9%85%92%E7%B2%BE
+66	Lazy Point	4.4	臺北市內湖區洲子街78號	https://ifoodie.tw/restaurant/5a7ab65f2756dd7bff171fe3-Lazy-Point
+67	Hush Taipei 餐酒館	4.6	臺北市大安區市民大道四段34號	https://ifoodie.tw/restaurant/5de4841d8c906d1934df3866-Hush-Taipei-%E9%A4%90%E9%85%92%E9%A4%A8
+68	Buckskin Yakiniku 柏克金燒肉屋	4.2	臺北市中山區南京東路二段1號2樓	https://ifoodie.tw/restaurant/5cf621ea23679c0d84a989e2-Buckskin-Yakiniku-%E6%9F%8F%E5%85%8B
+69	1492 餐廳	4.3	臺北市大安區樂利路30號	https://ifoodie.tw/restaurant/5f33b1e8d6895d02d46edf04-1492-%E9%A4%90%E5%BB%B3
+70	INGE'S Bar&Grill 台北萬豪酒店	4.0	臺北市中山區樂群二路199號20樓	https://ifoodie.tw/restaurant/57d057032756dd05d485aa7d-INGE'S-Bar%26Grill-%E5%8F%B0%E5%8C%97%E8%90%AC
+71	歐風館自助餐廳 大倉久和大飯店	4.2	臺北市中山區南京東路一段9號2F	https://ifoodie.tw/restaurant/559d675ac03a103ee86c7135-%E6%AD%90%E9%A2%A8%E9%A4%A8%E8%87%AA%E5%8A%A9%E9%A4%90%E5%BB%B3-%E5%A4%A7%E5%80%89%E4%B9%85%E5%92%8C%E5%A4%A7%E9%A3%AF%E5%BA%97
+72	T+T 餐酒館	4.6	臺北市松山區敦化北路165巷11號	https://ifoodie.tw/restaurant/5e72e881d6895d43cf36913d-T%2BT-%E9%A4%90%E9%85%92%E9%A4%A8
+73	狗毛 Hair of the Dog	4.8	臺北市大安區延吉街70巷5弄1號	https://ifoodie.tw/restaurant/5f648a1402935e0964178fa2-%E7%8B%97%E6%AF%9B-Hair-of-the-Dog
+74	OriginBAR 源	4.8	臺北市松山區南京東路四段133巷5弄31號	https://ifoodie.tw/restaurant/58bef6422756dd732689b439-OriginBAR-%E6%BA%90
+75	香色	3.8	臺北市中正區湖口街1之2號	https://ifoodie.tw/restaurant/559dbc52c03a103ee86ca27b-%E9%A6%99%E8%89%B2
+76	Green Door	4.5	臺北市中山區德惠街6之1號	https://ifoodie.tw/restaurant/5f71f5ee02935e784fc64621-Green-Door
+77	EAST END	4.6	臺北市大安區大安路一段56號3F	https://ifoodie.tw/restaurant/56cc13b22756dd42e0dee5fa-EAST-END
+78	竹Ta.ke kowloonbay Shisha 九龍灣會館	4.5	臺北市萬華區成都路27巷8之1號	https://ifoodie.tw/restaurant/5f5f7caa2756dd62f4409344-%E7%AB%B9Ta.ke-kowloonbay-Sh
+79	巧哚洋房餐飲坊	4.9	臺北市大安區仁愛路四段345巷5弄17號	https://ifoodie.tw/restaurant/58c2ec222756dd732b89b488-%E5%B7%A7%E5%93%9A%E6%B4%8B%E6%88%BF%E9%A4%90%E9%A3%B2%E5%9D%8A
+80	OZ Cafe & Bistro	4.4	臺北市信義區吳興街345號	https://ifoodie.tw/restaurant/5bacb5f2226139127be91eb8-OZ-Cafe-%26-Bistro
+81	N-ice Taipei	4.8	臺北市大安區大安路一段31巷42號	https://ifoodie.tw/restaurant/5cee35b623679c11905e2206-N-ice-Taipei
+82	Le Kief 菱玖洋服	4.3	臺北市大安區光復南路308巷36號	https://ifoodie.tw/restaurant/599b21f82756dd27fa68e799-Le-Kief-%E8%8F%B1%E7%8E%96%E6%B4%8B%E6%9C%8D
+83	幹嘛西班牙餐酒館	4.3	台北市大同區民樂街18號	https://ifoodie.tw/restaurant/584a1fd72756dd074c459376-%E5%B9%B9%E5%98%9B%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A4%90%E9%85%92%E9%A4%A8
+84	啜飲室 大安	4.5	臺北市大安區仁愛路四段27巷34號	https://ifoodie.tw/restaurant/55ebf939699b6e2511c573bf-%E5%95%9C%E9%A3%B2%E5%AE%A4-%E5%A4%A7%E5%AE%89
+85	紫豔 中餐廳/酒吧 (W Hotel)	4.5	臺北市信義區忠孝東路五段10號31樓	https://ifoodie.tw/restaurant/559d6a5fc03a103ee86c7308-%E7%B4%AB%E8%B1%94-%E4%B8%AD%E9%A4%90%E5%BB%B3%2F%E9%85%92%E5%90%A7-(W-Hotel)
+86	東京串門子-Tokyo hot炭火串燒	4.4	臺北市大安區市民大道四段36號	https://ifoodie.tw/restaurant/565604612756dd1d7a1b01ec-%E6%9D%B1%E4%BA%AC%E4%B8%B2%E9%96%80%E5%AD%90-Tokyo-hot%E7%82%AD%E7%81%AB%E4%B8%B2%E7%87%92
+87	Ombré	4.5	臺北市大安區復興南路二段130之1號2號柚木旁樓	https://ifoodie.tw/restaurant/5daea21fd6895d1da0cf2eb8-Ombr%C3%A9
+88	Wild Donkey 野驢小餐館	4.4	臺北市大安區忠孝東路四段216巷33弄5號	https://ifoodie.tw/restaurant/5d2c456bd6895d68938fc35a-Wild-Donkey-%E9%87%8E%E9%A9%A2%E5%B0%8F%E9%A4%90%E9%A4%A8
+89	TK Seafood & Steak	4.3	臺北市大安區大安路一段56號	https://ifoodie.tw/restaurant/573e01252756dd277dd578bd-TK-Seafood-%26-Steak
+90	MUGI 木屐	4.7	臺北市松山區市民大道四段137號	https://ifoodie.tw/restaurant/575fc165699b6e74b45d138c-MUGI-%E6%9C%A8%E5%B1%90
+91	當吧PAWN BAR	4.6	臺北市中山區長安東路一段45之2號一樓	https://ifoodie.tw/restaurant/5f4bb5e82756dd2483e3e88e-%E7%95%B6%E5%90%A7PAWN-BAR
+92	BRIDGISAN 橋下大叔	3.8	台北市中山區新生北路一段62巷16號	https://ifoodie.tw/restaurant/57c1d7792756dd02be5cfba3-BRIDGISAN-%E6%A9%8B%E4%B8%8B%E5%A4%A7%E5%8F%94
+93	花生俱樂部 Peanut Club	4.6	臺北市大安區大安路一段19巷16號	https://ifoodie.tw/restaurant/5e54995cd6895d7de6b458d3-%E8%8A%B1%E7%94%9F%E4%BF%B1%E6%A8%82%E9%83%A8-Peanut-Club
+94	紅皇后 川酒 · Red Queen Bistro	4.6	臺北市大安區樂利路11巷32號	https://ifoodie.tw/restaurant/5bc8b1f3226139112fdb70bd-%E7%B4%85%E7%9A%87%E5%90%8E-%E5%B7%9D%E9%85%92-%C2%B7-Red-Queen-B
+95	Fu milk tea 福奶茶	4.4	臺北市大安區瑞安街135巷4號	https://ifoodie.tw/restaurant/5a6f63932756dd652a8e77a1-Fu-milk-tea-%E7%A6%8F%E5%A5%B6%E8%8C%B6
+96	青樓中餐館	4.4	臺北市松山區市民大道四段217號	https://ifoodie.tw/restaurant/5e31aaefd6895d1eb3b572db-%E9%9D%92%E6%A8%93%E4%B8%AD%E9%A4%90%E9%A4%A8
+97	BaganHood 蔬食餐酒館	4.6	臺北市信義區忠孝東路四段553巷46弄11號	https://ifoodie.tw/restaurant/5eaadf152756dd71246ecde5-BaganHood-%E8%94%AC%E9%A3%9F%E9%A4%90%E9%85%92%E9%A4%A8
+98	ZIGA ZAGA (君悅酒店)	4.3	臺北市信義區松壽路2號	https://ifoodie.tw/restaurant/559d1d42c03a103ee86c4060-ZIGA-ZAGA-(%E5%90%9B%E6%82%85%E9%85%92%E5%BA%97)
+99	ChamBistro Diner and Bar	4.4	臺北市信義區松壽路9號6樓	https://ifoodie.tw/restaurant/5c25006b2261395290129121-ChamBistro-Diner-and
+100	GUSTOSO 義大利餐廳 (慕軒)	4.2	台北市敦化南路一段331號2樓	https://ifoodie.tw/restaurant/56cc0d83699b6e0f4e53ad67-GUSTOSO-%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3-(%E6%85%95%E8%BB%92)
+101	RAW	4.5	臺北市中山區樂群三路301號	https://ifoodie.tw/restaurant/559dc70dc03a103ee86ca954-RAW
+102	Oopsy Daisy Garden	4.5	臺北市大安區延吉街160巷3號	https://ifoodie.tw/restaurant/5ca4c1b72756dd7199b52ab1-Oopsy-Daisy-Garden
+103	Alma Spanish Cuisine	4.4	臺北市大安區東豐街11號	https://ifoodie.tw/restaurant/5edf4853d6895d55b0fed23f-Alma-Spanish-Cuisine
+104	豬跳舞小餐館	4.7	臺北市大安區光復南路290巷48號	https://ifoodie.tw/restaurant/559d1865c03a103ee86c3d96-%E8%B1%AC%E8%B7%B3%E8%88%9E%E5%B0%8F%E9%A4%90%E9%A4%A8
+105	Savior Lounge Bar 救世主小酒館	4.6	臺北市萬華區漢口街二段34巷10號	https://ifoodie.tw/restaurant/5ea996c48c906d139203ece3-Savior-Lounge-Bar-%E6%95%91%E4%B8%96
+106	J FULL 賈福廚房	4.4	臺北市大安區復興南路二段148巷27號	https://ifoodie.tw/restaurant/5932fad12756dd1a692fb85b-J-FULL-%E8%B3%88%E7%A6%8F%E5%BB%9A%E6%88%BF
+107	Wyatt’s	4.9	台北市大安區通化街39巷49弄17號	https://ifoodie.tw/restaurant/5f33fb0d2756dd48dee2853f-Wyatt%E2%80%99s
+108	L'IDIOT RESTAURANT 驢子餐廳	4.5	臺北市中山區林森北路369號	https://ifoodie.tw/restaurant/559d8850c03a103ee86c8518-L'IDIOT-RESTAURANT-%E9%A9%A2
+109	後院	4.5	臺北市大安區安和路二段23巷4號	https://ifoodie.tw/restaurant/5bc7462c2756dd028bc8be40-%E5%BE%8C%E9%99%A2
+110	曜日義式餐酒館	4.6	台北市大安區東豐街53號1樓	https://ifoodie.tw/restaurant/59ca97622756dd432294907c-%E6%9B%9C%E6%97%A5%E7%BE%A9%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8
+111	義瑪卡多天母咖啡廳	4.1	臺北市士林區忠誠路二段162號	https://ifoodie.tw/restaurant/5f296efd2756dd3a9c8ebee8-%E7%BE%A9%E7%91%AA%E5%8D%A1%E5%A4%9A%E5%A4%A9%E6%AF%8D%E5%92%96%E5%95%A1%E5%BB%B3
+112	VG The Seafood Bar , Taipei	4.6	台北市大安區敦化南路二段11巷6號	https://ifoodie.tw/restaurant/5b894fc52756dd37ce912e5e-VG-The-Seafood-Bar-%2C
+113	La Facette 酒窩	4.5	臺北市大安區忠孝東路四段122號	https://ifoodie.tw/restaurant/5d347448d6895d214b9f2dc9-La-Facette-%E9%85%92%E7%AA%A9
+114	ANTICO FORNO 老烤箱義式手桿披薩	4.4	臺北市大安區瑞安街141號	https://ifoodie.tw/restaurant/559d53b6c03a103ee86c63f9-ANTICO-FORNO-%E8%80%81%E7%83%A4%E7%AE%B1%E7%BE%A9%E5%BC%8F%E6%89%8B%E6%A1%BF
+115	Toasteria Cafe 永康旗艦店	4.1	臺北市大安區信義路二段200號	https://ifoodie.tw/restaurant/58a73b922756dd4667687e15-Toasteria-Cafe-%E6%B0%B8%E5%BA%B7%E6%97%97%E8%89%A6%E5%BA%97
+116	地中海牛排館 歐華酒店	4.6	臺北市中山區林森北路646號	https://ifoodie.tw/restaurant/559d717ac03a103ee86c782a-%E5%9C%B0%E4%B8%AD%E6%B5%B7%E7%89%9B%E6%8E%92%E9%A4%A8-%E6%AD%90%E8%8F%AF%E9%85%92%E5%BA%97
+117	canteenM Bar	4.4	台北市中正區中華路一段3號2F	https://ifoodie.tw/restaurant/5f237ffc8c906d6cd91a5c80-canteenM-Bar
+118	ROOM by Le Kief	4.3	臺北市大安區復興南路一段107巷5弄10號1樓	https://ifoodie.tw/restaurant/5e72e769226139178802bc29-ROOM-by-Le-Kief
+119	Intention	4.8	臺北市大安區敦化南路一段219號2樓	https://ifoodie.tw/restaurant/559d4728c03a103ee86c5c2b-Intention
+120	a poet	4.5	臺北市大安區敦化南路一段295巷9號	https://ifoodie.tw/restaurant/559d02fbc03a103ee86c3346-a-poet
+121	KABU和Bistro	4.4	臺北市大安區樂利路11巷13號	https://ifoodie.tw/restaurant/5c1130022261397c44f8c9ba-KABU%E5%92%8CBistro
+122	女人胃小館 Stomach Paradise	4.4	臺北市信義區光復南路419之1號	https://ifoodie.tw/restaurant/5f1aee942756dd340b8706ab-%E5%A5%B3%E4%BA%BA%E8%83%83%E5%B0%8F%E9%A4%A8-Stomach-Paradi
+123	小城外 Bar CityNorth	4.5	臺北市大同區民樂街34號	https://ifoodie.tw/restaurant/59860a4e2756dd22a6bd2af5-%E5%B0%8F%E5%9F%8E%E5%A4%96-Bar-CityNorth
+124	Relay Taîpas西班牙創意餐酒館	4.8	臺北市大安區四維路6巷22號	https://ifoodie.tw/restaurant/5ebcd6e5d6895d1fe02f0d14-Relay-Ta%C3%AEpas%E8%A5%BF%E7%8F%AD%E7%89%99%E5%89%B5%E6%84%8F%E9%A4%90%E9%85%92%E9%A4%A8
+125	Power beef	4.3	臺北市大安區金山南路一段50號	https://ifoodie.tw/restaurant/58dfebd32756dd7a7d2b3b5f-Power-beef
+126	Drunk Play爛醉不累	4.5	松壽路12號11樓	https://ifoodie.tw/restaurant/5e3250a1d6895d33b6d89a41-Drunk-Play%E7%88%9B%E9%86%89%E4%B8%8D%E7%B4%AF
+127	溫度小館Chaleureux	4.3	臺北市信義區莊敬路391巷3弄16號	https://ifoodie.tw/restaurant/56ba2a052756dd5b65a946b8-%E6%BA%AB%E5%BA%A6%E5%B0%8F%E9%A4%A8Chaleureux
+128	Luigi 路易奇洗衣公司	3.9	台北市信義區安和路一段112巷1號1樓	https://ifoodie.tw/restaurant/5bd08c1723679c43c56fddb7-Luigi-%E8%B7%AF%E6%98%93%E5%A5%87%E6%B4%97%E8%A1%A3%E5%85%AC%E5%8F%B8
+129	桂公子酒館 Highballer's Bar	4.3	台北市中山區民生東路一段37號	https://ifoodie.tw/restaurant/5ca3768c22613971a2f020ac-%E6%A1%82%E5%85%AC%E5%AD%90%E9%85%92%E9%A4%A8-Highballer's-B
+130	Fourplay 2.0	4.5	臺北市大安區東豐街61號	https://ifoodie.tw/restaurant/5e0ae0412261395338f8bf73-Fourplay-2.0
+131	Broccoli Beer 韓國餐酒食堂	4.5	台北市中山區松江路40號	https://ifoodie.tw/restaurant/575077ae2756dd0896fa07ba-Broccoli-Beer-%E9%9F%93%E5%9C%8B%E9%A4%90%E9%85%92%E9%A3%9F%E5%A0%82
+132	十方長私廚料理	4.5	臺北市大安區仁愛路四段48巷21號	https://ifoodie.tw/restaurant/5d5d53a02756dd2f1027b4c8-%E5%8D%81%E6%96%B9%E9%95%B7%E7%A7%81%E5%BB%9A%E6%96%99%E7%90%86
+133	CÉ LA VI Taipei	4.4	臺北市信義區松智路17號48F	https://ifoodie.tw/restaurant/5cc708a72756dd5865e49fa9-C%C3%89-LA-VI-Taipei
+134	洞香春	4.1	台北市松山區復興北路313巷36號	https://ifoodie.tw/restaurant/5be3d79f23679c419a2bd445-%E6%B4%9E%E9%A6%99%E6%98%A5
+135	Beer Talk Cafe & Bar 台北基隆路店	4.2	臺北市信義區基隆路二段115號	https://ifoodie.tw/restaurant/5e675d628c906d463d11e457-Beer-Talk-Cafe-%26-Bar
+136	Privado Trio 小酒館 早午餐	4.4	臺北市中正區金門街24巷35號1樓	https://ifoodie.tw/restaurant/5cdac3bb23679c7054c5d4fe-Privado-Trio-%E5%B0%8F%E9%85%92%E9%A4%A8-%E6%97%A9%E5%8D%88%E9%A4%90
+137	Prozac Balcony 百憂解陽台	4.6	臺北市大安區復興南路二段309號	https://ifoodie.tw/restaurant/5efd307f02935e43ea453406-Prozac-Balcony-%E7%99%BE%E6%86%82%E8%A7%A3%E9%99%BD%E5%8F%B0
+138	BOX Taipei	4.6	臺北市大安區市民大道四段118號	https://ifoodie.tw/restaurant/5d803289d6895d124eaac9c1-BOX-Taipei
+139	摩德年代-Modism Muses 繆斯餐酒館	4.2	臺北市士林區中山北路五段433號	https://ifoodie.tw/restaurant/5ef33f16d6895d4ec928decb-%E6%91%A9%E5%BE%B7%E5%B9%B4%E4%BB%A3-Modism-Muses-%E7%B9%86%E6%96%AF
+140	WOOBAR	4.3	臺北市信義區忠孝東路五段10號10F	https://ifoodie.tw/restaurant/559d645bc03a103ee86c6e9e-WOOBAR
+141	Sidebar	4.7	台北市大安區文昌街275號	https://ifoodie.tw/restaurant/5b5225382756dd5201851a59-Sidebar
+142	D Town by A Train	4.6	臺北市大安區忠孝東路四段49巷2號2樓	https://ifoodie.tw/restaurant/5ad8dae72756dd41bee11f3c-D-Town-by-A-Train
+143	QAFE Room	4.2	臺北市信義區松仁路90號	https://ifoodie.tw/restaurant/5eef6d0b2756dd446e3086ae-QAFE-Room
+144	去斯萬家	4.9	臺北市大安區金華街223之2號	https://ifoodie.tw/restaurant/5f573f5bd6895d61c06e010e-%E5%8E%BB%E6%96%AF%E8%90%AC%E5%AE%B6
+145	PACKIE銀杏川酒菜館	4.3	台北市區松壽路九號六樓	https://ifoodie.tw/restaurant/5beadce623679c3099c7f14e-PACKIE%E9%8A%80%E6%9D%8F%E5%B7%9D%E9%85%92%E8%8F%9C%E9%A4%A8
+146	江雁塘新時尚鐵板燒	4.5	臺北市新生北路三段7號1樓	https://ifoodie.tw/restaurant/55a550ebc03a10241de65b7d-%E6%B1%9F%E9%9B%81%E5%A1%98%E6%96%B0%E6%99%82%E5%B0%9A%E9%90%B5%E6%9D%BF%E7%87%92
+147	B612 Restaurant & Bar - B612餐酒館	4.7	臺北市大安區光復南路260巷51號	https://ifoodie.tw/restaurant/5db2df8422613978770e3fef-B612-Restaurant-%26-Ba
+148	瑋恩波士頓餐廳	4.4	臺北市中山區新生北路一段88號	https://ifoodie.tw/restaurant/55a5bf95c03a10241de67fb8-%E7%91%8B%E6%81%A9%E6%B3%A2%E5%A3%AB%E9%A0%93%E9%A4%90%E5%BB%B3
+149	Woolloomooloo	4.0	臺北市信義區信義路4段379號	https://ifoodie.tw/restaurant/559d1878c03a103ee86c3d9e-Woolloomooloo
+150	WINE-derful葡萄酒主題餐廳	4.4	台北市中山區民生東路三段27號1樓	https://ifoodie.tw/restaurant/5730d18c2756dd72d0f68374-WINE-derful%E8%91%A1%E8%90%84%E9%85%92%E4%B8%BB%E9%A1%8C%E9%A4%90%E5%BB%B3
+151	To Infinity & Beyond	4.6	臺北市大安區敦化南路一段160巷13號	https://ifoodie.tw/restaurant/5e720a442261394a16cecbb1-To-Infinity-%26-Beyond
+152	義寓Come a casa 歐式餐酒館	4.8	臺北市大安區四維路208巷12號	https://ifoodie.tw/restaurant/5e7380232756dd355d25f45a-%E7%BE%A9%E5%AF%93Come-a-casa-%E6%AD%90%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8
+153	一時無酉 abvless	4.9	臺北市中山區中山北路二段26巷18號	https://ifoodie.tw/restaurant/5ed50f162756dd23ad7269ba-%E4%B8%80%E6%99%82%E7%84%A1%E9%85%89-abvless
+154	大嗑西式餐館	4.6	臺北市中正區濟南路二段18之3號	https://ifoodie.tw/restaurant/559d6308c03a103ee86c6d68-%E5%A4%A7%E5%97%91%E8%A5%BF%E5%BC%8F%E9%A4%90%E9%A4%A8
+155	BAR 忠 Chu	4.5	台湾台北市中山區新生北路三段18號	https://ifoodie.tw/restaurant/5c60dafa226139721d2b6e30-BAR-%E5%BF%A0-Chu
+156	巴賽麗廳 (亞都麗緻大飯店)	4.3	臺北市中山區民權東路二段41號	https://ifoodie.tw/restaurant/559d5774c03a103ee86c6685-%E5%B7%B4%E8%B3%BD%E9%BA%97%E5%BB%B3-(%E4%BA%9E%E9%83%BD%E9%BA%97%E7%B7%BB%E5%A4%A7%E9%A3%AF%E5%BA%97)
+157	島Dau	4.8	臺北市大安區忠孝東路四段223巷34號	https://ifoodie.tw/restaurant/5ed7b2742756dd43d595b064-%E5%B3%B6Dau
+158	dé PLACE 德普雷斯	4.3	臺北市大安區敦化南路一段161巷69弄5號	https://ifoodie.tw/restaurant/57b1402623679c73557787fd-d%C3%A9-PLACE-%E5%BE%B7%E6%99%AE%E9%9B%B7%E6%96%AF
+159	Nite Nite 酒鈅酒 Bistro Bar	4.7	臺北市大安區復興南路二段185號	https://ifoodie.tw/restaurant/5e744bed8c906d15f806de9f-Nite-Nite-%E9%85%92%E9%88%85%E9%85%92-Bistro
+160	The Scent	4.5	台北市信義區菸廠路88號B2	https://ifoodie.tw/restaurant/5e460eb38c906d4c9be36c24-The-Scent
+161	貓下去敦北俱樂部	4.3	台北市松山區敦化北路218號	https://ifoodie.tw/restaurant/58600ae82756dd757bb8f24e-%E8%B2%93%E4%B8%8B%E5%8E%BB%E6%95%A6%E5%8C%97%E4%BF%B1%E6%A8%82%E9%83%A8
+162	香頌私宅會館	4.1	臺北市中山區建國北路二段52號	https://ifoodie.tw/restaurant/5835dbaf2756dd4996cca2d9-%E9%A6%99%E9%A0%8C%E7%A7%81%E5%AE%85%E6%9C%83%E9%A4%A8
+163	steak bistro 和洋	4.1	臺北市信義區松仁路58號3樓	https://ifoodie.tw/restaurant/5ea77bdb22613928cc3e5b03-steak-bistro-%E5%92%8C%E6%B4%8B
+164	A Mini Bistro。小館	4.6	臺北市文山區辛亥路四段101巷13弄2號	https://ifoodie.tw/restaurant/57efc820699b6e36353e9477-A-Mini-Bistro%E3%80%82%E5%B0%8F%E9%A4%A8
+165	重點 El punto 南美風情臻品料理	4.6	台北市大安區仁愛路四段345巷4弄12號	https://ifoodie.tw/restaurant/5d2c4546226139541a4a8299-%E9%87%8D%E9%BB%9E-El-punto-%E5%8D%97%E7%BE%8E%E9%A2%A8%E6%83%85%E8%87%BB%E5%93%81%E6%96%99%E7%90%86
+166	ALLEY181	4.7	臺北市大安區忠孝東路四段181巷39號	https://ifoodie.tw/restaurant/5d5cd1f18c906d7dc988c6d2-ALLEY181
+167	Flybar1993	4.9	臺北市北投區大業路629號之一	https://ifoodie.tw/restaurant/5ec1c2f18c906d7d19187c65-Flybar1993
+168	李上LeeSang	4.5	臺北市中山區南京東路一段130之4號二樓	https://ifoodie.tw/restaurant/5fa8bbf922613932fcc0b493-%E6%9D%8E%E4%B8%8ALeeSang
+169	心白	4.4	臺北市中山區松江路372巷28號	https://ifoodie.tw/restaurant/59f0d3552756dd291cc670ce-%E5%BF%83%E7%99%BD
+170	溫叨 Cafe & Dining	3.9	台北市信義區菸廠路88號2樓	https://ifoodie.tw/restaurant/5dad632322613956ab8325fd-%E6%BA%AB%E5%8F%A8-Cafe-%26-Dining
+171	房間餐酒 The Room Bistro	4.7	台北市大安區敦化南路一段160巷56號	https://ifoodie.tw/restaurant/5e3a84428c906d110f327ce7-%E6%88%BF%E9%96%93%E9%A4%90%E9%85%92-The-Room-Bistro
+172	Bar M	4.5	台北市中正區羅斯福路二段20號	https://ifoodie.tw/restaurant/5d8d6d2c2261391eb2cbc9ea-Bar-M
+173	R SQUARED Taipei	4.4	臺北市信義區仁愛路四段452巷8號一樓	https://ifoodie.tw/restaurant/5ec53d372756dd0432ab2114-R-SQUARED-Taipei
+174	隱城•小城外	4.4	臺北市大安區信義路三段160號	https://ifoodie.tw/restaurant/5eddae268c906d2175aa7e04-%E9%9A%B1%E5%9F%8E%E2%80%A2%E5%B0%8F%E5%9F%8E%E5%A4%96
+175	Commons	4.7	臺北市信義區光復南路447之48號	https://ifoodie.tw/restaurant/5e3d21fd8c906d4f43691f77-Commons
+176	MUD Bar	4.4	臺北市中山區B1中山北路二段57之1號	https://ifoodie.tw/restaurant/5bc2125022613918fbbc6365-MUD-Bar
+177	Hërs biströ她/的餐酒	4.1	臺北市信義區忠孝東路四段553巷22弄4號	https://ifoodie.tw/restaurant/59c400312756dd1b34a0f9c2-H%C3%ABrs-bistr%C3%B6%E5%A5%B9%2F%E7%9A%84%E9%A4%90%E9%85%92
+178	solo pasta	4.3	臺北市大安區安和路一段29之1號	https://ifoodie.tw/restaurant/559de003c03a103ee86cb890-solo-pasta
+179	紙醉金迷 RELAX TAIPEI	4.4	臺北市大安區延吉街62巷12號	https://ifoodie.tw/restaurant/5cb7351323679c1623aa5d8e-%E7%B4%99%E9%86%89%E9%87%91%E8%BF%B7-RELAX-TAIPEI
+180	Osteria Toccare 兔卡蕾餐酒館	4.3	臺北市中山區松江路235巷9號	https://ifoodie.tw/restaurant/559dc2e3c03a103ee86ca6e4-Osteria-Toccare-%E5%85%94%E5%8D%A1%E8%95%BE%E9%A4%90
+181	Bar Turning Point	4.2	台北市中山北路二段77巷8-7號	https://ifoodie.tw/restaurant/5eac306c2756dd71236ed79c-Bar-Turning-Point
+182	去憂餐酒館 Chill Bistro & Bar	4.6	臺北市信義區忠孝東路五段15巷10號的隔壁	https://ifoodie.tw/restaurant/5bf6991e2261396e34fb4aed-%E5%8E%BB%E6%86%82%E9%A4%90%E9%85%92%E9%A4%A8-Chill-Bistro-%26
+183	Snail蝸牛餐廳 歐義料理	4.7	臺北市士林區天母北路60號	https://ifoodie.tw/restaurant/5b43a3ed2756dd28ca44de72-Snail%E8%9D%B8%E7%89%9B%E9%A4%90%E5%BB%B3-%E6%AD%90%E7%BE%A9%E6%96%99%E7%90%86
+184	Brooklyn Café 布魯克林小餐館	4.4	臺北市松山區南京東路四段75巷14弄1號1樓	https://ifoodie.tw/restaurant/5eb2c8542756dd0ba27bcdfa-Brooklyn-Caf%C3%A9-%E5%B8%83%E9%AD%AF%E5%85%8B%E6%9E%97%E5%B0%8F%E9%A4%90
+185	Draft Land	4.7	臺北市大安區忠孝東路四段248巷2號1樓	https://ifoodie.tw/restaurant/5c90f5de2261396f08cce851-Draft-Land
+186	Spice Cuisine	4.8	臺北市中山區南京東路三段216巷21號	https://ifoodie.tw/restaurant/5eddab3922613909bf63de0a-Spice-Cuisine
+187	HOMELESS BISTRO 吾家可歸餐酒館	4.6	臺北市大安區光復南路308巷49號	https://ifoodie.tw/restaurant/5ac7b7e32756dd38a572c47f-HOMELESS-BISTRO-%E5%90%BE%E5%AE%B6%E5%8F%AF%E6%AD%B8
+188	豊賀大酒家	4.5	臺北市大安區永康街34號	https://ifoodie.tw/restaurant/5f45d85f2261392a141dc00b-%E8%B1%8A%E8%B3%80%E5%A4%A7%E9%85%92%E5%AE%B6
+189	VG Encore (原 VG Cafe)	4.4	臺北市大安區復興南路一段279巷4號	https://ifoodie.tw/restaurant/55db5e9f2756dd45c3a23a5d-VG-Encore-(%E5%8E%9F-VG-Cafe
+190	First One Bistro 佛斯特旺餐酒館 南西店	4.6	臺北市大同區南京西路18巷6弄5號	https://ifoodie.tw/restaurant/5c22248823679c4ad3c39be4-First-One-Bistro-%E4%BD%9B%E6%96%AF%E7%89%B9
+191	Domo De Sardegna 義大利傳統餐酒館	4.6	臺北市松山區民生東路三段113巷7弄8號	https://ifoodie.tw/restaurant/5b05aecd2756dd2b23cc0fca-Domo-De-Sardegna-%E7%BE%A9%E5%A4%A7%E5%88%A9
+192	Rocket Music 音樂火箭餐廳	4.4	臺北市中山區松江路10號	https://ifoodie.tw/restaurant/5bc5f4662756dd275b74b8d5-Rocket-Music-%E9%9F%B3%E6%A8%82%E7%81%AB%E7%AE%AD%E9%A4%90%E5%BB%B3
+193	Musée Kitchen & Bar	4.3	台北市信義區莊敬路178巷15號	https://ifoodie.tw/restaurant/56eeb536699b6e29ad675306-Mus%C3%A9e-Kitchen-%26-Bar
+194	WA-SHU+1 和酒	4.7	台北市大安區忠孝東路4段101巷39號A1	https://ifoodie.tw/restaurant/5e7c0f41d6895d144f0d9767-WA-SHU%2B1-%E5%92%8C%E9%85%92
+195	技固吧 Chikubar 好酒夜食 - 生蠔牛舌專門店 Oyster Ox-tongues Bistro	4.8	臺北市大安區市民大道四段68號	https://ifoodie.tw/restaurant/5e441078d6895d70707d7b01-%E6%8A%80%E5%9B%BA%E5%90%A7-Chikubar-%E5%A5%BD%E9%85%92%E5%A4%9C%E9%A3%9F-%E7%94%9F%E8%A0%94
+196	離城放感情	4.7	臺北市大安區嘉興街345號	https://ifoodie.tw/restaurant/5e0242e98c906d4b7b785ed4-%E9%9B%A2%E5%9F%8E%E6%94%BE%E6%84%9F%E6%83%85
+197	Bitter Burro	5.0	臺北市大同區承德路一段24巷2號	https://ifoodie.tw/restaurant/5e46ad1a2756dd434ce25feb-Bitter-Burro
+198	Mikkeller Taipei 米凱樂啤酒吧	4.4	台北市大同區南京西路241號	https://ifoodie.tw/restaurant/579f919c2756dd715c15efeb-Mikkeller-Taipei-%E7%B1%B3%E5%87%B1%E6%A8%82
+199	純Chunmix餐酒館	4.7	臺北市大安區光復南路290巷55號1樓	https://ifoodie.tw/restaurant/5e363a2d226139772740528d-%E7%B4%94Chunmix%E9%A4%90%E9%85%92%E9%A4%A8
+200	SAKEBONO SAKE BAR 曙 日本清酒吧	4.6	臺北市萬華區西園路一段226號	https://ifoodie.tw/restaurant/5e70dd262756dd355d213cb8-SAKEBONO-SAKE-BAR-%E6%9B%99-
+201	土貓商號 Turkish Kedi	4.4	臺北市中正區汀州路三段104巷6號	https://ifoodie.tw/restaurant/5e947aacd6895d5269fa940b-%E5%9C%9F%E8%B2%93%E5%95%86%E8%99%9F-Turkish-Kedi
+202	歐巴噠韓國炸雞	4.0	臺北市中山區中山北路二段183巷2之4號	https://ifoodie.tw/restaurant/5ac7b74c2756dd38a572c466-%E6%AD%90%E5%B7%B4%E5%99%A0%E9%9F%93%E5%9C%8B%E7%82%B8%E9%9B%9E
+203	台北美侖	4.2	臺北市大安區復興南路一段317號	https://ifoodie.tw/restaurant/559d636ec03a103ee86c6de0-%E5%8F%B0%E5%8C%97%E7%BE%8E%E4%BE%96
+204	Trattoria al Sole 豔陽下義大利小餐館	4.5	臺北市文山區新光路一段44號	https://ifoodie.tw/restaurant/5ceb95b8226139300d743c2c-Trattoria-al-Sole-%E8%B1%94%E9%99%BD
+205	Purrson 呼嚕小酒館	4.6	臺北市文山區指南路二段106號	https://ifoodie.tw/restaurant/5e67a2782756dd355917d3a9-Purrson-%E5%91%BC%E5%9A%95%E5%B0%8F%E9%85%92%E9%A4%A8
+206	渣男Taiwan Bistro 中山店	4.5	臺北市大同區承德路二段14號	https://ifoodie.tw/restaurant/5e6249ddd6895d2bdf3ae29b-%E6%B8%A3%E7%94%B7Taiwan-Bistro-%E4%B8%AD%E5%B1%B1%E5%BA%97
+207	阿力的搖滾廚房	4.6	臺北市松山區富錦街498號	https://ifoodie.tw/restaurant/559d9525c03a103ee86c8cce-%E9%98%BF%E5%8A%9B%E7%9A%84%E6%90%96%E6%BB%BE%E5%BB%9A%E6%88%BF
+208	Muzeo Gastronomy&Draft	4.4	臺北市大安區忠孝東路四段170巷6弄14號	https://ifoodie.tw/restaurant/5de4a72d2261392c9512d815-Muzeo-Gastronomy%26Dra
+209	30 thirty老酒館	4.4	臺北市信義區逸仙路26巷17號	https://ifoodie.tw/restaurant/559db1cec03a103ee86c9c6b-30-thirty%E8%80%81%E9%85%92%E9%A4%A8
+210	Trio café 三重奏	4.4	台北市中正區八德路一段1號	https://ifoodie.tw/restaurant/569b2a02699b6e7bef526e23-Trio-caf%C3%A9-%E4%B8%89%E9%87%8D%E5%A5%8F
+211	Tickle my fantasy	2.8	臺北市大安區安和路二段8號	https://ifoodie.tw/restaurant/5b9b5bc7f52468775bfe28c3-Tickle-my-fantasy
+212	WAT Bar	4.4	台北市信義路五段16號1樓	https://ifoodie.tw/restaurant/5de486ed8c906d1934df397f-WAT-Bar
+213	The Scent 松菸店	4.9	臺北市信義區菸廠路88號B2	https://ifoodie.tw/restaurant/5e537b998c906d0e1ebbc3df-The-Scent-%E6%9D%BE%E8%8F%B8%E5%BA%97
+214	別緻餐酒坊	4.1	臺北市大安區瑞安街71巷5弄2號	https://ifoodie.tw/restaurant/5e59d2748c906d7b80600a3b-%E5%88%A5%E7%B7%BB%E9%A4%90%E9%85%92%E5%9D%8A
+215	Lili餐廳	4.0	臺北市士林區中山北路六段760號	https://ifoodie.tw/restaurant/559d0e92c03a103ee86c3879-Lili%E9%A4%90%E5%BB%B3
+216	時寓	4.3	台北市中山區建國北路一段68號2樓	https://ifoodie.tw/restaurant/57cf05fe2756dd05d485a99f-%E6%99%82%E5%AF%93
+217	HANKO 60	4.8	台北市萬華區漢口街2段60號	https://ifoodie.tw/restaurant/580f9fe62756dd6782d9ebba-HANKO-60
+218	昨天 Bistro & Flavor	4.6	臺北市大安區大安路一段19巷28號	https://ifoodie.tw/restaurant/5a4e6cf12756dd4707615c42-%E6%98%A8%E5%A4%A9-Bistro-%26-Flavor
+219	廚藏室STOREROOM	4.3	臺北市大安區復興南路一段340巷26號	https://ifoodie.tw/restaurant/5e476f6c8c906d3536e210b7-%E5%BB%9A%E8%97%8F%E5%AE%A4STOREROOM
+220	Piccola Botega	4.1	台北市中正區八德路一段1號D棟1樓	https://ifoodie.tw/restaurant/5851894c2756dd7578b8ec70-Piccola-Botega
+221	Nep. Lounge Bar	4.4	臺北市中山區天津街63號B1	https://ifoodie.tw/restaurant/580f9ed12756dd6782d9eb66-Nep.-Lounge-Bar
+222	Placebo 安慰劑小酒館	4.2	臺北市信義區基隆路二段83號	https://ifoodie.tw/restaurant/5a81ba582261391d449f97b4-Placebo-%E5%AE%89%E6%85%B0%E5%8A%91%E5%B0%8F%E9%85%92%E9%A4%A8
+223	The Fridge bar	4.8	台北市延吉街101號	https://ifoodie.tw/restaurant/5bda8ccd23679c66d592607d-The-Fridge-bar
+224	SEOUL BISTRO	4.2	台北市信義區松壽路11號B2	https://ifoodie.tw/restaurant/5924791d2756dd3fdd9396dc-SEOUL-BISTRO
+225	Bar Halfway There 半路酒吧	4.7	臺北市大安區文昌街24號2樓	https://ifoodie.tw/restaurant/5ca372172756dd62daaf41ba-Bar-Halfway-There-%E5%8D%8A%E8%B7%AF
+226	樂蕾餐酒館 La Lechuza Sake Shop & Bistro	4.7	臺北市大安區信義路四段378巷11號	https://ifoodie.tw/restaurant/5b54fc8b23679c4edeea213d-%E6%A8%82%E8%95%BE%E9%A4%90%E9%85%92%E9%A4%A8-La-Lechuza-Sak
+227	好處 Have A Nice Day	4.1	大安區羅斯福路三段283巷14弄30號	https://ifoodie.tw/restaurant/576983742756dd134b34d03f-%E5%A5%BD%E8%99%95-Have-A-Nice-Day
+228	果雅方舟The Ark-敦化概念店	4.4	臺北市大安區忠孝東路四段170巷6弄1之1號1樓	https://ifoodie.tw/restaurant/5e35895e2756dd184b967746-%E6%9E%9C%E9%9B%85%E6%96%B9%E8%88%9FThe-Ark-%E6%95%A6%E5%8C%96%E6%A6%82%E5%BF%B5%E5%BA%97
+229	GALERIE Bistro	4.1	臺北市大同區南京西路25巷2號	https://ifoodie.tw/restaurant/559d07a2c03a103ee86c355d-GALERIE-Bistro
+230	孔雀歐亞料理餐酒館Peacock Bistro	4.0	臺北市大同區迪化街一段197號	https://ifoodie.tw/restaurant/559dd568c03a103ee86cb152-%E5%AD%94%E9%9B%80%E6%AD%90%E4%BA%9E%E6%96%99%E7%90%86%E9%A4%90%E9%85%92%E9%A4%A8Peacock-Bis
+231	Vicolo Trattoria 微巷 ‧ 義大利小餐館	4.1	臺北市士林區忠誠路二段166巷15號	https://ifoodie.tw/restaurant/57b0b3e42756dd37cbd6ed38-Vicolo-Trattoria-%E5%BE%AE%E5%B7%B7-
+232	發琴吧 Ginspiration	4.7	臺北市大同區迪化街一段76號3樓之2	https://ifoodie.tw/restaurant/5ca372312756dd62daaf41c6-%E7%99%BC%E7%90%B4%E5%90%A7-Ginspiration
+233	F Gallery by A Train	4.1	臺北市松山區南京東路三段276號2樓	https://ifoodie.tw/restaurant/5d633dc58c906d63dbc4c18d-F-Gallery-by-A-Train
+234	Needle Bar	4.5	臺北市大安區文昌街125號	https://ifoodie.tw/restaurant/5ca3722f2756dd62daaf41c3-Needle-Bar
+235	小食糖sugar bistro /環浪商號	4.7	臺北市中正區信義路二段181巷3號	https://ifoodie.tw/restaurant/559d0729c03a103ee86c351d-%E5%B0%8F%E9%A3%9F%E7%B3%96sugar-bistro-%2F%E7%92%B0%E6%B5%AA%E5%95%86
+236	D’N 敦南酒窖	4.8	臺北市大安區敦化南路二段140號	https://ifoodie.tw/restaurant/5e021f1d2756dd5699e012bc-D%E2%80%99N-%E6%95%A6%E5%8D%97%E9%85%92%E7%AA%96
+237	莎瓦迪卡	4.3	臺北市大安區大安路一段176巷1號	https://ifoodie.tw/restaurant/564bfc91699b6e099cfabcf1-%E8%8E%8E%E7%93%A6%E8%BF%AA%E5%8D%A1
+238	Un Petit Pas Bistro 一小步	4.4	臺北市大安區復興南路一段107巷5弄11號	https://ifoodie.tw/restaurant/58c982ee2756dd602f419a0b-Un-Petit-Pas-Bistro-
+239	Mastro Cafe	4.2	台北市內湖區瑞光路316巷58號	https://ifoodie.tw/restaurant/559d35b9c03a103ee86c50b9-Mastro-Cafe
+240	UMAMI 金色三麥	4.7	臺北市信義區松智路17號7F	https://ifoodie.tw/restaurant/5cd26f0c23679c1bbc69f6e3-UMAMI-%E9%87%91%E8%89%B2%E4%B8%89%E9%BA%A5
+241	Secret bistro秘密小酒館	4.7	臺北市中山區中原街139號1樓	https://ifoodie.tw/restaurant/5debb996d6895d32ada7b949-Secret-bistro%E7%A7%98%E5%AF%86%E5%B0%8F%E9%85%92%E9%A4%A8
+242	Aj's wine & bistro	4.7	台北市大安區通化街171巷33號	https://ifoodie.tw/restaurant/59f544532261394e9844db4f-Aj's-wine-%26-bistro
+243	魯蛋茶酒館	4.5	臺北市大同區迪化街一段333號	https://ifoodie.tw/restaurant/5ca3763c23679c1527915066-%E9%AD%AF%E8%9B%8B%E8%8C%B6%E9%85%92%E9%A4%A8
+244	Beer Rush Taproom	4.8	臺北市大安區光復南路260巷25號	https://ifoodie.tw/restaurant/5fa8291702935e62d371262a-Beer-Rush-Taproom
+245	星夜 Starry night Bar	4.8	台北市大同區長安西路76號	https://ifoodie.tw/restaurant/5e4103e82261393086fd2701-%E6%98%9F%E5%A4%9C-Starry-night-Bar
+246	The Misanthrope Society 厭世會社	4.7	臺北市中正區羅斯福路四段40巷1之2號	https://ifoodie.tw/restaurant/5c93b73622613914ef15eae9-The-Misanthrope-Soci
+247	SoShow Bar & Restaurant	4.4	臺北市中山區中山北路一段47號2F	https://ifoodie.tw/restaurant/575c53342756dd0895fa097a-SoShow-Bar-%26-Restaur
+248	Old Seat Restaurant.Cafe 川酒＆咖啡	4.6	大安區忠孝東路四段101巷29號1樓	https://ifoodie.tw/restaurant/5c70163af52468056bcd75c1-Old-Seat-Restaurant.
+249	Fa cafe 天母店	4.2	臺北市士林區中山北路七段14巷6號	https://ifoodie.tw/restaurant/599dc4402756dd5445bd88eb-Fa-cafe-%E5%A4%A9%E6%AF%8D%E5%BA%97
+250	洋城義大利餐酒館 內湖家樂福店	4.3	臺北市內湖區民善街88號1樓	https://ifoodie.tw/restaurant/5dba97fd2261392d8083564d-%E6%B4%8B%E5%9F%8E%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E9%85%92%E9%A4%A8-%E5%85%A7%E6%B9%96%E5%AE%B6%E6%A8%82%E7%A6%8F%E5%BA%97
+251	Fourplay Cuisine	4.5	臺北市大安區東豐街67號	https://ifoodie.tw/restaurant/559d414cc03a103ee86c5848-Fourplay-Cuisine
+252	Wayne’s New York 瑋恩紐約美式龍蝦牛排餐廳	4.6	臺北市信義區基隆路二段81號	https://ifoodie.tw/restaurant/5d50246e2756dd5f4691cc27-Wayne%E2%80%99s-New-York-%E7%91%8B%E6%81%A9%E7%B4%90
+253	BeApe法國傳統餐酒館	4.4	臺北市中山區中山北路二段72巷1號2F	https://ifoodie.tw/restaurant/591c90fa2756dd5483ad9003-BeApe%E6%B3%95%E5%9C%8B%E5%82%B3%E7%B5%B1%E9%A4%90%E9%85%92%E9%A4%A8
+254	Longtail	4.2	臺北市大安區敦化南路二段174號	https://ifoodie.tw/restaurant/59b42d9d2756dd0ea0b2c3b6-Longtail
+255	CEO Premium Club 餐酒館	4.6	臺北市內湖區瑞光路258巷51號1F	https://ifoodie.tw/restaurant/5d6e76d62756dd2f152cf234-CEO-Premium-Club-%E9%A4%90%E9%85%92%E9%A4%A8
+256	ConfitRémi	4.6	臺北市文山區羅斯福路五段269巷16號	https://ifoodie.tw/restaurant/5b9e8e59f5246841b6311f22-ConfitR%C3%A9mi
+257	廚子市場	4.3	臺北市內湖區基湖路3巷11號	https://ifoodie.tw/restaurant/559d4383c03a103ee86c59af-%E5%BB%9A%E5%AD%90%E5%B8%82%E5%A0%B4
+258	金色三麥 台北京站店	4.4	臺北市大同區承德路一段1號	https://ifoodie.tw/restaurant/559dc259c03a103ee86ca61c-%E9%87%91%E8%89%B2%E4%B8%89%E9%BA%A5-%E5%8F%B0%E5%8C%97%E4%BA%AC%E7%AB%99%E5%BA%97
+259	JK studio 新義法料理	4.6	臺北市信義區基隆路一段147巷5弄13號	https://ifoodie.tw/restaurant/576199b42756dd1d469e4a3d-JK-studio-%E6%96%B0%E7%BE%A9%E6%B3%95%E6%96%99%E7%90%86
+260	The Terrace 大廳酒吧 寒舍艾麗酒店	4.3	臺北市信義區松高路18號6樓	https://ifoodie.tw/restaurant/559d8482c03a103ee86c82dd-The-Terrace-%E5%A4%A7%E5%BB%B3%E9%85%92%E5%90%A7-%E5%AF%92%E8%88%8D%E8%89%BE
+261	Geography Bar	4.7	臺北市萬華區昆明街92之2號4樓	https://ifoodie.tw/restaurant/5ca371e62756dd62daaf41a0-Geography-Bar
+262	Tapas & Wine Yasaiya 野菜家	4.3	臺北市大同區林森北路119巷60號	https://ifoodie.tw/restaurant/57dae2bf2756dd7fa2684f70-Tapas-%26-Wine-Yasaiya
+263	負壹 -1	4.4	臺北市大安區安和路一段65號	https://ifoodie.tw/restaurant/5d5ff65c2756dd2f1027c276-%E8%B2%A0%E5%A3%B9-1
+264	PICO PICO	4.5	臺北市大安區安和路一段102巷28號1樓	https://ifoodie.tw/restaurant/559dd5aac03a103ee86cb190-PICO-PICO
+265	招酒	4.7	臺北市松山區復興北路141巷6弄11號	https://ifoodie.tw/restaurant/5d54f7da8c906d38abfed750-%E6%8B%9B%E9%85%92
+266	Odin信義放感情	4.8	臺北市信義區嘉興街127巷107號	https://ifoodie.tw/restaurant/5c60f64623679c6096c9dc9d-Odin%E4%BF%A1%E7%BE%A9%E6%94%BE%E6%84%9F%E6%83%85
+267	ABRAZO BISTRO	4.2	臺北市大安區敦化南路一段198號	https://ifoodie.tw/restaurant/5c87bc58226139771c210216-ABRAZO-BISTRO
+268	大倉久和飯店珍珠酒吧	4.1	臺北市中山區南京東路一段9號1F	https://ifoodie.tw/restaurant/559d6762c03a103ee86c7148-%E5%A4%A7%E5%80%89%E4%B9%85%E5%92%8C%E9%A3%AF%E5%BA%97%E7%8F%8D%E7%8F%A0%E9%85%92%E5%90%A7
+269	R&D Cocktail Lab	4.4	臺北市大安區嘉興街36號	https://ifoodie.tw/restaurant/59af68ce22613940080676a4-R%26D-Cocktail-Lab
+270	AHA Saloon	4.2	臺北市大安區復興南路二段138號	https://ifoodie.tw/restaurant/5ed5ec3422613944b7f2defe-AHA-Saloon
+271	SELF Oasis 綠洲	4.7	臺北市大安區瑞安街135巷4號1樓	https://ifoodie.tw/restaurant/5d4a999b8c906d259854c4e7-SELF-Oasis-%E7%B6%A0%E6%B4%B2
+272	行冊walking book	4.2	台北市延平北路二段33號	https://ifoodie.tw/restaurant/568666d4699b6e2b43b6aec3-%E8%A1%8C%E5%86%8Awalking-book
+273	POPINA	4.3	臺北市中山區南京東路一段13巷6弄1號	https://ifoodie.tw/restaurant/5628e3aa699b6e6e00dae712-POPINA
+274	凱達大飯店Bar 98	3.7	臺北市萬華區艋舺大道167號5樓	https://ifoodie.tw/restaurant/5e09a751d6895d563bf5e2c0-%E5%87%B1%E9%81%94%E5%A4%A7%E9%A3%AF%E5%BA%97Bar-98
+275	ASTAR coffee house	4.4	臺北市中山區民權東路三段60巷13弄41號	https://ifoodie.tw/restaurant/559d6f3dc03a103ee86c7617-ASTAR-coffee-house
+276	Healer治癒酒吧	4.8	臺北市松山區南京東路五段250巷18弄10號	https://ifoodie.tw/restaurant/5bbb192ff5246866622f9649-Healer%E6%B2%BB%E7%99%92%E9%85%92%E5%90%A7
+277	BAO XIANG 富錦樹台菜香檳 包廂	4.2	臺北市松山區敦化北路199巷15號	https://ifoodie.tw/restaurant/5d3db779d6895d3b4cea6d84-BAO-XIANG-%E5%AF%8C%E9%8C%A6%E6%A8%B9%E5%8F%B0%E8%8F%9C%E9%A6%99%E6%AA%B3-%E5%8C%85%E5%BB%82
+278	WhyWhy壞壞Cafe	4.9	臺北市松山區八德路四段245巷32弄20號	https://ifoodie.tw/restaurant/5d2c85038c906d382d197591-WhyWhy%E5%A3%9E%E5%A3%9ECafe
+279	BAR PUN	4.6	臺北市大安區信義路四段378巷5號	https://ifoodie.tw/restaurant/5b8e0ee523679c19fd097e40-BAR-PUN
+280	藏薪食譜 Wang's Field	4.3	臺北市大安區仁愛路四段105巷3號	https://ifoodie.tw/restaurant/57e7c78d2756dd611dd38fd9-%E8%97%8F%E8%96%AA%E9%A3%9F%E8%AD%9C-Wang's-Field
+281	89 LOOP Sports Bar	4.5	臺北市中正區羅斯福路四段134號2樓號	https://ifoodie.tw/restaurant/5ba5011223679c43c1c1bb74-89-LOOP-Sports-Bar
+282	45酒吧	4.1	臺北市大安區羅斯福路四段110號2F	https://ifoodie.tw/restaurant/559dc6a5c03a103ee86ca91c-45%E9%85%92%E5%90%A7
+283	Naked Bistro 裸餐酒	4.3	臺北市大安區光復南路240巷49號	https://ifoodie.tw/restaurant/5a0dd47b2756dd31b6cf8d16-Naked-Bistro-%E8%A3%B8%E9%A4%90%E9%85%92
+284	J&R義法	4.8	臺北市大安區忠孝東路三段251巷13弄2號1樓	https://ifoodie.tw/restaurant/5a677ad82756dd60a422315b-J%26R%E7%BE%A9%E6%B3%95
+285	Ch-eat & Drink	4.2	台北市大安區市民大道四段168號	https://ifoodie.tw/restaurant/59b42d742756dd0ea0b2c3a2-Ch-eat-%26-Drink
+286	啤啤 Craft Beer Cafe	4.6	臺北市大安區敦化南路一段160巷39號	https://ifoodie.tw/restaurant/5cdd067122613937b277fa86-%E5%95%A4%E5%95%A4-Craft-Beer-Cafe
+287	台SOPAR餐酒館	4.5	臺北市大安區市民大道四段36號	https://ifoodie.tw/restaurant/5ba89e9123679c7f63dafd0d-%E5%8F%B0SOPAR%E9%A4%90%E9%85%92%E9%A4%A8
+288	WA-SHU 和酒	4.4	臺北市大安區忠孝東路四段101巷39號	https://ifoodie.tw/restaurant/5cdb93c522613973b56c99e0-WA-SHU-%E5%92%8C%E9%85%92
+289	Can Nature 肯自然葡萄酒	4.7	臺北市大安區大安路二段53巷4號	https://ifoodie.tw/restaurant/5edda9f52261390a05657e72-Can-Nature-%E8%82%AF%E8%87%AA%E7%84%B6%E8%91%A1%E8%90%84%E9%85%92
+290	Marsalis Home Taipei	4.5	臺北市信義區松仁路90號3F	https://ifoodie.tw/restaurant/5906a1b4699b6e0df7256ab8-Marsalis-Home-Taipei
+291	像。餐廳 (原向餐廳)	4.3	臺北市中山區雙城街23之3號B1	https://ifoodie.tw/restaurant/559d09ccc03a103ee86c3665-%E5%83%8F%E3%80%82%E9%A4%90%E5%BB%B3-(%E5%8E%9F%E5%90%91%E9%A4%90%E5%BB%B3)
+292	Mocktini 概念調飲餐館	4.7	臺北市大安區敦化南路二段152號之1	https://ifoodie.tw/restaurant/57c9bfea2756dd6aa999bdd3-Mocktini-%E6%A6%82%E5%BF%B5%E8%AA%BF%E9%A3%B2%E9%A4%90%E9%A4%A8
+293	B-Line By A Train	4.6	台北市中正區忠孝東路二段104號2樓	https://ifoodie.tw/restaurant/559dc5a7c03a103ee86ca8a6-B-Line-By-A-Train
+294	Herban Kitchen & Bar	4.5	臺北市大安區忠孝東路四段101巷27號	https://ifoodie.tw/restaurant/559d5436c03a103ee86c644b-Herban-Kitchen-%26-Bar
+295	Pan House Wine & Bistro	4.4	臺北市大安區延吉街131巷9號	https://ifoodie.tw/restaurant/5ca2c99f23679c0624781651-Pan-House-Wine-%26-Bis
+296	CASA de AMIGOS	4.4	臺北市大安區延吉街72號之16號	https://ifoodie.tw/restaurant/5c1a54492756dd1b5d3ba22a-CASA-de-AMIGOS
+297	Chill Bistro&Cafe	4.8	台北市松山區南京東路五段23巷6弄8號1樓	https://ifoodie.tw/restaurant/5bc2fbdef524683236a815f8-Chill-Bistro%26Cafe
+298	Bar ansleep ウイスキー カクテル 日本語OKのバー	4.4	臺北市中山區雙城街13巷18號二樓號	https://ifoodie.tw/restaurant/5ca371e72756dd62daaf41a3-Bar-ansleep-%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC-%E3%82%AB%E3%82%AF
+299	花彘醺2店 Bistro	4.4	臺北市大安區忠孝東路四段170巷6弄16號	https://ifoodie.tw/restaurant/56612adb2756dd4be3caf731-%E8%8A%B1%E5%BD%98%E9%86%BA2%E5%BA%97-Bistro
+300	弎樓Thirdfloor	4.0	臺北市大安區通化街156號	https://ifoodie.tw/restaurant/5b9e66f02756dd1c27a8723e-%E5%BC%8E%E6%A8%93Thirdfloor
+301	VIVACE 薇瓦琪義式餐酒館	4.5	臺北市北投區光明路2巷9號	https://ifoodie.tw/restaurant/5b9249baf524687cdbb6c040-VIVACE-%E8%96%87%E7%93%A6%E7%90%AA%E7%BE%A9%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8
+302	Fairy Taipei	4.4	臺北市大安區光復南路308巷51號	https://ifoodie.tw/restaurant/57e56feb2756dd606545b98f-Fairy-Taipei
+303	BitHub	4.5	臺北市中山區復興北路276號	https://ifoodie.tw/restaurant/5c511155f5246819015e4f17-BitHub
+304	kozy舒適	4.6	臺北市大安區仁愛路四段345巷4弄12號	https://ifoodie.tw/restaurant/5c87721622613939a0933156-kozy%E8%88%92%E9%81%A9
+305	Bar Between	4.6	臺北市大安區光復南路456巷27之2號	https://ifoodie.tw/restaurant/5eddae9fd6895d1883bcae2b-Bar-Between
+306	Jamie's 小酒廚	4.7	臺北市大安區市民大道四段210號	https://ifoodie.tw/restaurant/5627d6302756dd74727fbd77-Jamie's-%E5%B0%8F%E9%85%92%E5%BB%9A
+307	Cantina del Gio	4.7	臺北市大安區忠孝東路四段170巷18弄5號	https://ifoodie.tw/restaurant/5b7d72c42756dd6c8e25f021-Cantina-del-Gio
+308	FIFI茶酒沙龍	3.8	臺北市大安區仁愛路四段15號2樓	https://ifoodie.tw/restaurant/559d83ffc03a103ee86c8293-FIFI%E8%8C%B6%E9%85%92%E6%B2%99%E9%BE%8D
+309	La Esquina 轉角酒吧	4.4	臺北市中山區長安東路一段53巷1之6號	https://ifoodie.tw/restaurant/57643d2d2756dd1d439e4a8c-La-Esquina-%E8%BD%89%E8%A7%92%E9%85%92%E5%90%A7
+310	山肴鮨	4.5	臺北市大同區南京西路64巷16之3號	https://ifoodie.tw/restaurant/57a6271a2756dd20c4a19f09-%E5%B1%B1%E8%82%B4%E9%AE%A8
+311	HANCHU	4.3	台北市大安區東豐街52號	https://ifoodie.tw/restaurant/57a627e82756dd20c4a19f50-HANCHU
+312	盛 餐酒坊	4.7	臺北市大安區延吉街131巷37號	https://ifoodie.tw/restaurant/5bc5f4652756dd275b74b8d2-%E7%9B%9B-%E9%A4%90%E9%85%92%E5%9D%8A
+313	Port23	4.4	台北市大安區信義路四段30巷23號	https://ifoodie.tw/restaurant/57d059bf2756dd05d485ab29-Port23
+314	極炙日式燒肉	3.4	臺北市中山區長安東路一段15號2樓	https://ifoodie.tw/restaurant/559d48fdc03a103ee86c5d3b-%E6%A5%B5%E7%82%99%E6%97%A5%E5%BC%8F%E7%87%92%E8%82%89
+315	Owls Bistro 窩式小酒館	4.5	臺北市大安區忠孝東路三段217巷4弄17號	https://ifoodie.tw/restaurant/57eceb5c2756dd6d377d6c9c-Owls-Bistro-%E7%AA%A9%E5%BC%8F%E5%B0%8F%E9%85%92%E9%A4%A8
+316	Wootp窩台北	4.1	臺北市大安區忠孝東路四段205巷39之1號	https://ifoodie.tw/restaurant/55a501bcc03a10241de64015-Wootp%E7%AA%A9%E5%8F%B0%E5%8C%97
+317	Mod SEQUEL (二店)	4.5	臺北市大安區樂利路11巷7號	https://ifoodie.tw/restaurant/584e5ca82756dd72ad77a6c1-Mod-SEQUEL-(%E4%BA%8C%E5%BA%97)
+318	ALCICCHETTO義麵坊小酒館	4.1	臺北市中正區八德路一段40號	https://ifoodie.tw/restaurant/580f9fa32756dd6782d9eb9c-ALCICCHETTO%E7%BE%A9%E9%BA%B5%E5%9D%8A%E5%B0%8F%E9%85%92%E9%A4%A8
+319	MANIA 躁鎮	4.4	臺北市大安區樂利路59號	https://ifoodie.tw/restaurant/5ca371d12756dd62daaf419a-MANIA-%E8%BA%81%E9%8E%AE
+320	溫德德式烘焙餐館	4.5	臺北市大安區光復南路260巷28號	https://ifoodie.tw/restaurant/559dd9f7c03a103ee86cb4c2-%E6%BA%AB%E5%BE%B7%E5%BE%B7%E5%BC%8F%E7%83%98%E7%84%99%E9%A4%90%E9%A4%A8
+321	A Train Leads The Way To Jazz	4.6	臺北市中山區八德路二段233號2樓	https://ifoodie.tw/restaurant/55a5b0bbc03a10241de67b2c-A-Train-Leads-The-Wa
+322	B-one自助餐厅 (西華飯店)	4.0	臺北市松山區民生東路三段111號B1樓	https://ifoodie.tw/restaurant/559d5e90c03a103ee86c6a7b-B-one%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85-(%E8%A5%BF%E8%8F%AF%E9%A3%AF%E5%BA%97)
+323	108抹茶茶廊	4.0	臺北市信義區松高路11號誠品信義店B2	https://ifoodie.tw/restaurant/581499f323679c553aad697d-108%E6%8A%B9%E8%8C%B6%E8%8C%B6%E5%BB%8A
+324	FOCOSO Taipei	4.5	臺北市大安區通化街170巷11之1號	https://ifoodie.tw/restaurant/5b7ec3972756dd6c8f2abfbe-FOCOSO-Taipei
+325	掌門精釀啤酒吧	4.1	臺北市信義區松高路16號4樓號	https://ifoodie.tw/restaurant/5ba31eaa2261397ecbd60c19-%E6%8E%8C%E9%96%80%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E5%90%A7
+326	The Villa Herbs Restaurant	4.1	臺北市大安區樂利路11巷32號	https://ifoodie.tw/restaurant/559d0761c03a103ee86c353f-The-Villa-Herbs-Rest
+327	THE KEY COMPANY 鑰匙行	4.2	臺北市大安區忠孝東路四段223巷59號	https://ifoodie.tw/restaurant/5a3e9b512756dd0774580f92-THE-KEY-COMPANY-%E9%91%B0%E5%8C%99%E8%A1%8C
+328	C Bistro 喜私房餐酒館	4.6	臺北市中山區松江路164巷8號	https://ifoodie.tw/restaurant/5b86ac3d2756dd18a0026fe9-C-Bistro-%E5%96%9C%E7%A7%81%E6%88%BF%E9%A4%90%E9%85%92%E9%A4%A8
+329	1516 Bistro	4.6	臺北市大安區復興南路一段30巷4號	https://ifoodie.tw/restaurant/559d37e9c03a103ee86c5228-1516-Bistro
+330	SOLIS Backpack & Cafe Bar 複合概念店	4.5	臺北市松山區八德路三段106巷60號	https://ifoodie.tw/restaurant/5b7437eb2756dd6552021a9f-SOLIS-Backpack-%26-Caf
+331	玖杯	4.6	臺北市松山區八德路二段375號	https://ifoodie.tw/restaurant/57cb11e52756dd6aad99bd55-%E7%8E%96%E6%9D%AF
+332	玖杯 Κρασί 京華店	4.7	臺北市松山區東寧路11號	https://ifoodie.tw/restaurant/5b4e30fb2756dd51fc84b98e-%E7%8E%96%E6%9D%AF-%CE%9A%CF%81%CE%B1%CF%83%CE%AF-%E4%BA%AC%E8%8F%AF%E5%BA%97
+333	CHORD和弦BISTRO	4.0	臺北市大安區文昌街128號	https://ifoodie.tw/restaurant/575bff6623679c5de7cbb07d-CHORD%E5%92%8C%E5%BC%A6BISTRO
+334	Tuga葡萄牙餐廳	4.6	臺北市大安區忠孝東路四段216巷11弄12號	https://ifoodie.tw/restaurant/564628db2756dd690d4a3a0a-Tuga%E8%91%A1%E8%90%84%E7%89%99%E9%A4%90%E5%BB%B3
+335	Bar 春花 The Primrose	4.6	臺北市中正區新生南路一段56巷8號	https://ifoodie.tw/restaurant/5eddad5722613909bf63df51-Bar-%E6%98%A5%E8%8A%B1-The-Primrose
+336	SMEXY音樂餐廳	4.4	臺北市松山區民生東路三段131號	https://ifoodie.tw/restaurant/5a7b411d2756dd1187a14b90-SMEXY%E9%9F%B3%E6%A8%82%E9%A4%90%E5%BB%B3
+337	JokeR Bistro & Bar	4.3	臺北市松山區市民大道四段163號	https://ifoodie.tw/restaurant/5a2eca892756dd43b7433181-JokeR-Bistro-%26-Bar
+338	7th Japanese Bar	4.7	臺北市中山區林森北路119巷47號	https://ifoodie.tw/restaurant/5b11727ff52468663c4e5917-7th-Japanese-Bar
+339	此刻韓式花藝咖啡	4.7	臺北市內湖區內湖路一段339巷7號	https://ifoodie.tw/restaurant/5af72cfa2756dd2da41b2c32-%E6%AD%A4%E5%88%BB%E9%9F%93%E5%BC%8F%E8%8A%B1%E8%97%9D%E5%92%96%E5%95%A1
+340	HESTIA TAPAS BAR 西班牙小酒館	4.3	臺北市松山區民生東路三段130巷18弄3號	https://ifoodie.tw/restaurant/559d733ac03a103ee86c7957-HESTIA-TAPAS-BAR-%E8%A5%BF%E7%8F%AD%E7%89%99
+341	Odin 士林放感情	4.8	臺北市士林區大東路152號	https://ifoodie.tw/restaurant/5ccd4235f524683dcfb418ad-Odin-%E5%A3%AB%E6%9E%97%E6%94%BE%E6%84%9F%E6%83%85
+342	Island 1 Kitchen 一號島廚房	4.5	臺北市大安區安和路一段102巷10號	https://ifoodie.tw/restaurant/559d85a1c03a103ee86c8380-Island-1-Kitchen-%E4%B8%80%E8%99%9F%E5%B3%B6
+343	Jumi Tavern Champagne & Gyoza Bar	4.7	臺北市大安區仁愛路四段345巷4弄39號	https://ifoodie.tw/restaurant/5ca373e623679c1527914eb6-Jumi-Tavern-Champagn
+344	牡丹 Mudan	3.4	臺北市萬華區成都路10巷45號	https://ifoodie.tw/restaurant/5a8c63932756dd4387a1f45b-%E7%89%A1%E4%B8%B9-Mudan
+345	BEAU Bar	4.1	臺北市大安區仁愛路4段408巷11號	https://ifoodie.tw/restaurant/575da5dc2756dd0897fa08cc-BEAU-Bar
+346	邀月兒	4.9	臺北市松山區富錦街405號	https://ifoodie.tw/restaurant/559d56c4c03a103ee86c6624-%E9%82%80%E6%9C%88%E5%85%92
+347	戲台咖-戲台酒館	4.1	臺北市中正區中山南路21之1號	https://ifoodie.tw/restaurant/59e4f4c72756dd59ca88e4dc-%E6%88%B2%E5%8F%B0%E5%92%96-%E6%88%B2%E5%8F%B0%E9%85%92%E9%A4%A8
+348	Self私室	4.6	臺北市大安區樂利路39號	https://ifoodie.tw/restaurant/5a243cba2756dd43b6426e3d-Self%E7%A7%81%E5%AE%A4
+349	馬友友印度餐酒水煙館	4.6	"台北市
+中山區
+松江路1-1號"	https://ifoodie.tw/restaurant/5a11c7a82756dd31b8cfed61-%E9%A6%AC%E5%8F%8B%E5%8F%8B%E5%8D%B0%E5%BA%A6%E9%A4%90%E9%85%92%E6%B0%B4%E7%85%99%E9%A4%A8
+350	Trine & Zen Xin Yi崔妮傑恩 微風信義	3.9	台北市忠孝東路五段68號4樓	https://ifoodie.tw/restaurant/57effda423679c5f94e88dd6-Trine-%26-Zen-Xin-Yi%E5%B4%94%E5%A6%AE
+351	BAR小谷	4.7	臺北市中山區中山北路一段83巷5之1號	https://ifoodie.tw/restaurant/578e6d452756dd281f344752-BAR%E5%B0%8F%E8%B0%B7
+352	Vine Bar 藤蔓老屋	4.6	台北市大安區光復南路454號	https://ifoodie.tw/restaurant/59f2248a2756dd2919c6859b-Vine-Bar-%E8%97%A4%E8%94%93%E8%80%81%E5%B1%8B
+353	墨子 I MOZI	4.6	臺北市大安區忠孝東路四段216巷32弄10號	https://ifoodie.tw/restaurant/5ab762ad226139612088f113-%E5%A2%A8%E5%AD%90-I-MOZI
+354	Puro Puro	4.1	臺北市中山區八德路二段265號	https://ifoodie.tw/restaurant/56140fa52756dd484e29c9cf-Puro-Puro
+355	Tavern D the RUM BAR	4.6	台北市信義區莊敬路178巷6號	https://ifoodie.tw/restaurant/5eddad368c906d217421bc34-Tavern-D-the-RUM-BAR
+356	You & Me 牛肉麵Bar	4.2	臺北市松山區延壽街145號	https://ifoodie.tw/restaurant/55a5fa63c03a102ec1415c31-You-%26-Me-%E7%89%9B%E8%82%89%E9%BA%B5Bar
+357	Miliano TEA BAR 米蓮娜茶餐酒吧	4.6	台北市大安區和平東路三段66號	https://ifoodie.tw/restaurant/598df2472756dd407aa87ba4-Miliano-TEA-BAR-%E7%B1%B3%E8%93%AE%E5%A8%9C%E8%8C%B6
+358	DUO Taipei Bar & Bistro	4.6	臺北市大安區大安路一段19巷33號	https://ifoodie.tw/restaurant/59ad967d2756dd71207e2d73-DUO-Taipei-Bar-%26-Bis
+359	和韵WAING	4.5	臺北市中山區中山北路二段128巷6弄16號	https://ifoodie.tw/restaurant/55a5c46cc03a10241de68146-%E5%92%8C%E9%9F%B5WAING
+360	HALEAKALA 夏威夷酒吧餐廳	4.4	臺北市信義區松仁路28號4樓	https://ifoodie.tw/restaurant/559dba67c03a103ee86ca00c-HALEAKALA-%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%85%92%E5%90%A7%E9%A4%90%E5%BB%B3
+361	雨人麵包餐館Rain man Boulangerie Bistro	4.6	臺北市大安區忠孝東路四段553巷2弄3號	https://ifoodie.tw/restaurant/559d449cc03a103ee86c5a80-%E9%9B%A8%E4%BA%BA%E9%BA%B5%E5%8C%85%E9%A4%90%E9%A4%A8Rain-man-Boula
+362	旅城 Voyage Bistro & Bar	4.5	臺北市中山區雙城街49巷1號	https://ifoodie.tw/restaurant/57f3ef2d2756dd28ec5329c2-%E6%97%85%E5%9F%8E-Voyage-Bistro-%26-B
+363	El Marqués Tapas Bar Spanish Restaurant	4.6	臺北市大安區延吉街259號	https://ifoodie.tw/restaurant/5953eff12756dd4ec6f450b6-El-Marqu%C3%A9s-Tapas-Bar
+364	軍火庫精釀啤酒專門店 BeerAmmo Craft Beer	4.5	臺北市大同區南京西路109號	https://ifoodie.tw/restaurant/59247a152756dd3fdd939738-%E8%BB%8D%E7%81%AB%E5%BA%AB%E7%B2%BE%E9%87%80%E5%95%A4%E9%85%92%E5%B0%88%E9%96%80%E5%BA%97-BeerAmmo-
+365	波派地中海餐廳	3.9	臺北市中山區玉門街1號	https://ifoodie.tw/restaurant/563735492756dd08e9238833-%E6%B3%A2%E6%B4%BE%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%A4%90%E5%BB%B3
+366	URBAN331 (台北慕軒)	4.1	臺北市大安區敦化南路一段331號	https://ifoodie.tw/restaurant/559dc32cc03a103ee86ca71d-URBAN331-(%E5%8F%B0%E5%8C%97%E6%85%95%E8%BB%92)
+367	whinos Bar & Kitchen	4.1	臺北市大安區四維路14巷7號	https://ifoodie.tw/restaurant/559d1d0cc03a103ee86c4028-whinos-Bar-%26-Kitchen
+368	bochibochi bar	4.2	臺北市中山區中山北路一段83巷5之2號	https://ifoodie.tw/restaurant/58ebc95c2756dd328e6c4fc0-bochibochi-bar
+369	China Pa Dining & Live Music 中國父音樂餐廳	4.4	臺北市松山區南京東路三段285號B1	https://ifoodie.tw/restaurant/5a69aee8f524681c9a5428a8-China-Pa-Dining-%26-Li
+370	Driftwood西門町	4.6	臺北市萬華區昆明街46號	https://ifoodie.tw/restaurant/58a88c912756dd66f102b97e-Driftwood%E8%A5%BF%E9%96%80%E7%94%BA
+371	Tiger Lily Taipei (TigerLily)	4.3	臺北市大安區敦化南路一段236巷38號	https://ifoodie.tw/restaurant/588f716e699b6e1dba21583c-Tiger-Lily-Taipei-(T
+372	ON TAP	4.2	臺北市大安區忠孝東路四段216巷11弄21號	https://ifoodie.tw/restaurant/559d9aa9c03a103ee86c8f77-ON-TAP
+373	Nox Taipei	4.6	臺北市大安區安和路二段71巷7號1樓	https://ifoodie.tw/restaurant/57b74bdf2756dd6c6936f2b5-Nox-Taipei
+374	Ole Rum Bar & Tapas	4.6	臺北市大安區安和路一段109巷4號1樓	https://ifoodie.tw/restaurant/5f572a6b2756dd155d8e5961-Ole-Rum-Bar-%26-Tapas
+375	Le Bistro Taipei	4.5	台北市中山區長安東路二段201巷6號	https://ifoodie.tw/restaurant/564979d42756dd265e00f932-Le-Bistro-Taipei
+376	101 隨意吧	4.1	臺北市信義區信義路五段7號36樓	https://ifoodie.tw/restaurant/559dd8e2c03a103ee86cb3a6-101-%E9%9A%A8%E6%84%8F%E5%90%A7
+377	鉑泊客 POSHPACKER HOTEL	4.3	臺北市中正區重慶南路一段39號	https://ifoodie.tw/restaurant/57fbd9372756dd3baeddb15a-%E9%89%91%E6%B3%8A%E5%AE%A2-POSHPACKER-HOTEL
+378	Shotia	4.4	臺北市大安區樂利路50號	https://ifoodie.tw/restaurant/57d28361699b6e34872ff89b-Shotia
+379	ParkSide	5.0	臺北市大安區延吉街131巷26號B1	https://ifoodie.tw/restaurant/55a4a08bc03a1002ad8ad314-ParkSide
+380	Ounce Taipei	4.5	臺北市大安區信義路四段309號	https://ifoodie.tw/restaurant/56b2ee27699b6e19955261a9-Ounce-Taipei
+381	香聚餐酒館	4.6	台北市仁愛路四段300巷26弄19號	https://ifoodie.tw/restaurant/57676e692756dd015810f51d-%E9%A6%99%E8%81%9A%E9%A4%90%E9%85%92%E9%A4%A8
+382	黑風寨燒酒店	4.8	臺北市大安區市民大道四段84號	https://ifoodie.tw/restaurant/559d9277c03a103ee86c8b60-%E9%BB%91%E9%A2%A8%E5%AF%A8%E7%87%92%E9%85%92%E5%BA%97
+383	鈞太酒藏 DOMAINE WINE CELLARS	4.6	臺北市大安區仁愛路四段383號B1	https://ifoodie.tw/restaurant/57c71e902756dd5f549d0c13-%E9%88%9E%E5%A4%AA%E9%85%92%E8%97%8F-DOMAINE-WINE-CE
+384	Come Here Bar, Angel&Annie	4.3	臺北市信義區基隆路三段2號	https://ifoodie.tw/restaurant/59c1a6c1f52468096775d2cb-Come-Here-Bar%2C-Angel
+385	小小餐館little bistro	4.5	臺北市大安區瑞安街43號	https://ifoodie.tw/restaurant/55a50ccbc03a10241de643de-%E5%B0%8F%E5%B0%8F%E9%A4%90%E9%A4%A8little-bistro
+386	CJ BISTRO	3.5	臺北市中山區北安路780號B2	https://ifoodie.tw/restaurant/5723a2322756dd504a104345-CJ-BISTRO
+387	飲酒廊- Drink Corridor	4.5	臺北市松山區八德路三段106巷62號	https://ifoodie.tw/restaurant/56df15c02756dd19d835e80c-%E9%A3%B2%E9%85%92%E5%BB%8A-Drink-Corridor
+388	AL CICCHETTO義麵坊小酒館	4.2	臺北市中正區八德路一段1號	https://ifoodie.tw/restaurant/559d634dc03a103ee86c6da5-AL-CICCHETTO%E7%BE%A9%E9%BA%B5%E5%9D%8A%E5%B0%8F%E9%85%92%E9%A4%A8
+389	Vicious Circle Music House	4.0	臺北市大安區敦化南路一段177巷39號	https://ifoodie.tw/restaurant/55a5fb84c03a102ec1415c87-Vicious-Circle-Music
+390	Elsewhere 那裏	4.9	臺北市大安區光復南路200巷7號1樓	https://ifoodie.tw/restaurant/559d550bc03a103ee86c64b9-Elsewhere-%E9%82%A3%E8%A3%8F
+391	iDarts Taipei	5.0	臺北市大安區敦化南路一段177巷19號	https://ifoodie.tw/restaurant/56438aae2756dd40eaa061c0-iDarts-Taipei
+392	傻瓜屋咖啡廳小酒館	4.0	臺北市中山區中山北路一段62號	https://ifoodie.tw/restaurant/559da77ec03a103ee86c9594-%E5%82%BB%E7%93%9C%E5%B1%8B%E5%92%96%E5%95%A1%E5%BB%B3%E5%B0%8F%E9%85%92%E9%A4%A8
+393	M.O. Bar	4.5	臺北市松山區敦化北路158號5F	https://ifoodie.tw/restaurant/559d3463c03a103ee86c4fd8-M.O.-Bar
+394	TRIO Wine三重奏	5.0	臺北市臺北市中山區玉門街1號	https://ifoodie.tw/restaurant/559dd12cc03a103ee86caefd-TRIO-Wine%E4%B8%89%E9%87%8D%E5%A5%8F
+395	1001 Nights Taipei 一千零一夜(水煙館）	4.0	臺北市松山區南京東路五段8號2樓	https://ifoodie.tw/restaurant/559d4610c03a103ee86c5b7b-1001-Nights-Taipei-%E4%B8%80
+396	小公館咖啡	3.8	臺北市中正區羅斯福路三段316巷8弄3號2樓	https://ifoodie.tw/restaurant/559d7bc1c03a103ee86c7e90-%E5%B0%8F%E5%85%AC%E9%A4%A8%E5%92%96%E5%95%A1
+397	先酒肴 清酒吧 Senn Sake Dining Bar	4.6	臺北市大安區敦化南路一段163號2樓	https://ifoodie.tw/restaurant/5d4939af8c906d2b0d19f0cd-%E5%85%88%E9%85%92%E8%82%B4-%E6%B8%85%E9%85%92%E5%90%A7-Senn-Sake-Di
