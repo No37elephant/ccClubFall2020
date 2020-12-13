@@ -55,16 +55,16 @@ cur.execute("CREATE OR REPLACE DATABASE extracted_geoinfo \
 table_name = 'bar'
 cur.execute("CREATE OR REPLACE TABLE extracted_geoinfo.bar \
     (name TEXT NOT NULL, \
-    rating FLOAT NOT NULL, \
+    rating TEXT NOT NULL, \
     address TEXT NOT NULL, \
-    ave_price FLOAT NOT NULL, \
+    ave_price TEXT NOT NULL, \
     url TEXT NOT NULL, \
     tel TEXT NOT NULL, \
     lat_lng TEXT NOT NULL, \
-    place_id TEXT UNIQUE);")
+    place_id TEXT NOT NULL);")
 
 # import csv files using pandas
-df = pd.read_csv("1207_info.csv",sep=',', index_col = 0)
+df = pd.read_csv("1213_info.csv",sep=',', index_col = 0)
 # print(df['url'])
 # print(df.shape[0])
 # for i in range(df.shape[0]):
@@ -76,17 +76,18 @@ df = pd.read_csv("1207_info.csv",sep=',', index_col = 0)
 #     cur.execute(add)
 
 row_num = df.shape[0]
+# print(row_num)
 table_name = 'extracted_geoinfo.bar'
 
 for n in range(row_num):
-    lst = list(df.iloc[1,:].astype('str'))
+    lst = list(df.iloc[n,:].astype('str'))
     lst = ['\"' + n + '\"' for n in lst]
 
-cur.execute("INSERT INTO {table_name}({columns})values({values});".format(
-    table_name = table_name,
-    columns = ', '.join(list(df.columns)),
-    values = ', '.join(lst)
-))
+    cur.execute("INSERT INTO {table_name} ({columns})value({values});".format(
+        table_name = table_name,
+        columns = ', '.join(list(df.columns)),
+        values = ', '.join(lst)
+    ))
 
 # close the connection to the database.
 mydb.commit()
