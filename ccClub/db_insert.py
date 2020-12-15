@@ -40,6 +40,7 @@
 import csv
 import mariadb
 import pandas as pd
+import numpy as np
 
 mydb = mariadb.connect(
     host = 'localhost',
@@ -55,16 +56,18 @@ cur.execute("CREATE OR REPLACE DATABASE extracted_geoinfo \
 table_name = 'bar'
 cur.execute("CREATE OR REPLACE TABLE extracted_geoinfo.bar \
     (name TEXT NOT NULL, \
-    rating TEXT NOT NULL, \
+    rating FLOAT NOT NULL, \
     address TEXT NOT NULL, \
-    ave_price TEXT NOT NULL, \
+    ave_price FLOAT NOT NULL, \
     url TEXT NOT NULL, \
     tel TEXT NOT NULL, \
-    lat_lng TEXT NOT NULL, \
+    lat FLOAT NOT NULL, \
+    lng FLOAT NOT NULL, \
     place_id TEXT NOT NULL);")
 
 # import csv files using pandas
 df = pd.read_csv("1213_info.csv",sep=',', index_col = 0)
+df['ave_price'].replace(np.nan, 0, inplace = True)
 # print(df['url'])
 # print(df.shape[0])
 # for i in range(df.shape[0]):
