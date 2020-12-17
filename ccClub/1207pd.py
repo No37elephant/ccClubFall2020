@@ -36,12 +36,12 @@
 #     conn.commit()
 # print('Done')
 
-import json
-import csv
-import pandas as pd
+# import json
+# import csv
+# import pandas as pd
 # df = pd.read_json('Tainan_city.json')
 # df.to_csv('bar_tainan.csv', encoding = 'utf8')
-df = pd.read_csv('bar_tainan.csv', index_col=0)
+# df = pd.read_csv('bar_tainan.csv', index_col=0)
 # df = df.rename(columns={'avg_price':'ave_price'})
 # df.to_csv('bar_tainan.csv', encoding = 'utf8')
 
@@ -73,16 +73,26 @@ df = pd.read_csv('bar_tainan.csv', index_col=0)
 # # print(df)
 # df.drop(columns=['lat_lng'], inplace = True)
 
-# print(type(df['tel'].iloc[0]))
-def tidy_up(x):
-    x = str(x)
-    x = x.replace('.0','')
-    # result = '0' + x
-    return x
-df['tel'] = df['tel'].apply(tidy_up)
-# print(df['tel'])
-# print(df['tel_new'])
-# df.drop(columns=['tel'], inplace=True)
-# df = df.rename(columns={'tel_new':'tel'})
+# # print(type(df['tel'].iloc[0]))
+# def tidy_up(x):
+#     x = str(x)
+#     x = x.replace('.0','')
+#     # result = '0' + x
+#     return x
+# df['tel'] = df['tel'].apply(tidy_up)
+# # print(df['tel'])
+# # print(df['tel_new'])
+# # df.drop(columns=['tel'], inplace=True)
+# # df = df.rename(columns={'tel_new':'tel'})
 
-df.to_csv('bar_tainan.csv', encoding = 'utf8')
+# df.to_csv('bar_tainan.csv', encoding = 'utf8')
+
+import pandas as pd
+import csv
+
+db1 = pd.read_csv('1213_info.csv',index_col=0)
+db2 = pd.read_csv('bar_tainan.csv',index_col=0)
+
+db3 = pd.concat([db1,db2],join='outer')
+# print(db3)
+db3.to_csv('1217test.csv', encoding='utf8')
