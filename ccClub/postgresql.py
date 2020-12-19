@@ -48,13 +48,21 @@ row_num = df.shape[0]
 
 for n in range(row_num):
     lst = list(df.iloc[n,:].astype('str'))
-    lst = ['\"' + n + '\"' for n in lst]
+    # lst = ['\"' + n + '\"' for n in lst]
     # print(', '.join(list(df.columns)))
     table_name = table_name
-    columns = "', '".join(list(df.columns))
-    values = "', '".join(lst)
-    cur.execute("INSERT INTO bar (%s)values(%s);", 
-        (columns, values))
+    # columns = "', '".join(list(df.columns))
+    # values = "', '".join(lst)
+    columns = ", ".join(list(df.columns))
+    values = ", ".join(lst)
+    # cur.execute("INSERT INTO bar (%s)values(%s);", 
+    #     (columns, values))
+    # print(lst[0])
+    cur.execute("INSERT INTO bar (name, rating, address, ave_price, url, tel, place_id, lat, lng)\
+        VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s);", 
+        (lst[0],lst[1],lst[2],lst[3],lst[4],lst[5],lst[6],lst[7],lst[8],))
+
+
 
 # close the connection to the database.
 conn.commit()
