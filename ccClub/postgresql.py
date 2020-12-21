@@ -31,16 +31,19 @@ cur.execute("CREATE TABLE bar \
     (name TEXT NOT NULL, \
     rating FLOAT NOT NULL, \
     address TEXT NOT NULL, \
-    ave_price FLOAT NOT NULL, \
+    avg_price FLOAT NOT NULL, \
     url TEXT NOT NULL, \
     tel TEXT NOT NULL, \
     lat FLOAT NOT NULL, \
     lng FLOAT NOT NULL, \
+    review TEXT NOT NULL, \
     place_id TEXT NOT NULL);")
 
 # import csv files using pandas
-df = pd.read_csv("1213_info.csv",sep=',', index_col = 0)
-df['ave_price'].replace(np.nan, 0, inplace = True)
+df = pd.read_csv("all_bar.csv",sep=',', index_col = 0)
+df['tel'].replace(np.nan, 0, inplace = True)
+df['lat'].replace('No latitude found!',0, inplace=True)
+df['lng'].replace('No longitude found!',0, inplace=True)
 
 
 row_num = df.shape[0]
@@ -58,9 +61,9 @@ for n in range(row_num):
     # cur.execute("INSERT INTO bar (%s)values(%s);", 
     #     (columns, values))
     # print(lst[0])
-    cur.execute("INSERT INTO bar (name, rating, address, ave_price, url, tel, place_id, lat, lng)\
-        VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s);", 
-        (lst[0],lst[1],lst[2],lst[3],lst[4],lst[5],lst[6],lst[7],lst[8],))
+    cur.execute("INSERT INTO bar (name, rating, address, url, place_id, lat, lng, review, tel, avg_price)\
+        VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);", 
+        (lst[0],lst[1],lst[2],lst[3],lst[4],lst[5],lst[6],lst[7],lst[8],lst[9],))
 
 
 
