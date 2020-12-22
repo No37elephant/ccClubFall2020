@@ -90,22 +90,28 @@
 import pandas as pd
 import csv
 import numpy as np
+import json
 
 db = pd.read_csv('all_bar.csv', index_col=0)
+with open('all_bar.json', 'w', encoding='utf8') as f:
+    f.write(db.to_json(orient='records', lines=False))
 
-db.drop(columns=['avg_price'], inplace = True)
-db.drop(columns=['coordinates'], inplace = True)
-db = db.rename(columns={'ave_price':'avg_price'})
+# data = pd.read_json('all_bar.json',lines=True)
+# print(data.head(2))
 
-def tidy_up_tel(x):
-    x = str(x)
-    x = x.replace('nan','')
-    x = x.replace('.0','')
-    # result = int(x)
-    return x
-db['tel'] = db['tel'].apply(tidy_up_tel)
+# db.drop(columns=['avg_price'], inplace = True)
+# db.drop(columns=['coordinates'], inplace = True)
+# db = db.rename(columns={'ave_price':'avg_price'})
 
-db.to_csv('all_bar.csv', encoding='utf8')
+# def tidy_up_tel(x):
+#     x = str(x)
+#     x = x.replace('nan','')
+#     x = x.replace('.0','')
+#     # result = int(x)
+#     return x
+# db['tel'] = db['tel'].apply(tidy_up_tel)
+
+# db.to_csv('all_bar.csv', encoding='utf8')
 
 # def tidy_up_tel(x):
 #     x = str(x)
