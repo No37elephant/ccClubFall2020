@@ -1,0 +1,111 @@
+<html>
+    <head>
+        <title>Bar map - Leaflet</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+        <style type="text/css">
+        body {
+          padding: 0;
+          margin: 0;
+        }
+        html, body, #mapid {
+          height: 100%;
+          width: 100vw;
+        }
+        </style>
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""/></script>
+        <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    </head>
+    <body>
+        <div id="mapid"></div>
+
+        <script >
+            var latitude = '{{latitude}}';
+            var longitude = '{{longitude}}';
+
+
+            var mymap = L.map('mapid', {
+              center: [latitude, longitude],
+            zoom: 15});
+            L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{tileSize}/{z}/{x}/{y}?access_token={accessToken}',
+                        {maxZoom: 18,
+                         id: 'sclin1991/ckj17vex34jfn19p16rpzhpi6',
+                         tileSize: 512,
+                         zoomOffset: -1,
+                         accessToken:'pk.eyJ1Ijoic2NsaW4xOTkxIiwiYSI6ImNraTMxeTZhNzBnY3cycW81YWVhaDFtamQifQ.EjZNLHDO-jg4H9iMORxZ5A'})
+                         .addTo(mymap);
+
+            var markers = new L.MarkerClusterGroup().addTo(mymap);
+
+            //爬json文件
+            var url = "https://raw.githubusercontent.com/No37elephant/ccClubFall2020/Webcralwer-Result-in-Json/ccClub/overall.json";
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open('get', url, true);
+            xmlhttp.send();
+            //onload 當資料確定有回傳了，則開始執行以下function
+            xmlhttp.onload = function(){
+
+              var data = JSON.parse(xmlhttp.responseText);
+              //javascript for 迴圈
+              for (var i = 0; i < data.length; i++){
+
+                markers.addLayer(
+                L.marker([data[i].lat, data[i].lng])
+              .bindPopup('<b>'+data[i].title+'</b><br><hr>'+
+              '<b>地址： </b>'+data[i].address+'<br>'+
+              '<b>電話： </b>'+data[i].tel+'<br>'+
+              '<b>評分： </b>'+data[i].rating))
+
+
+              }
+              mymap.addLayer(markers);
+
+            }
+
+
+            var redIcon = new L.Icon({
+              iconUrl:'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+              shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+              iconSize: [25, 41],
+              iconAnchor: [12, 41],
+              popupAnchor: [1, -34],
+              shadowSize: [41, 41]
+            });
+
+            var urlocation = L.marker([latitude, longitude], {icon: redIcon}).addTo(mymap)
+            .bindPopup("<b>Here you are!</b>").openPopup();
+
+
+
+            mymap.on()
+
+
+
+            /*function onLocationFound(e){
+                var radius = e.accuracy;
+
+                L.marker(e.latlng).addTo(mymap)
+                .bindPopup("You are within " + radius + " meters from this point.")
+                .openPopup();
+
+                L.circle(e.latlng, radius/3).addTo(mymap);
+            } */
+
+
+
+
+            //function onLocationError(e) {
+              //  alert(e.message);
+            //}
+
+            //mymap.on('locationfound', onLocationFound);
+            //mymap.on('locationerror', onLocationError);
+            //mymap.locate({setView: true, watch: true});
+
+        </script>
+    </body>
+</html>
