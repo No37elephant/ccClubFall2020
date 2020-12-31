@@ -19,10 +19,10 @@ import numpy
 import random
 
 #connecting database
-conn = psycopg2.connect(database='d9gnei48mbovh8',
-                        user='fusoiorzocvqjt',
-                        password='f73bec6757bce818757e1a8894f40ca1a104ffa4459db7a62c424b71263b4bdd',
-                        host='ec2-54-211-99-192.compute-1.amazonaws.com',port='5432')
+conn = psycopg2.connect(database='',
+                        user='',
+                        password='',
+                        host='',port='')
 conn.set_session(autocommit=True)
 
 #bar_info
@@ -88,8 +88,8 @@ guess_round = 0
 
 
 app = Flask(__name__)
-line_bot_api = LineBotApi("ZRenw4zKciZ66CnPJYuRwqq35sQ1H/MVamEplfr1DTvRYHML1IVNsR9kJXPvccFTiMvyCx0fElkMm6cTvrvTa8GbpZeNHbHr/ww4CJyIvu1UOH91AvEvayalWceli7QM7+lt3ivY2UbjOm7sMxch5AdB04t89/1O/w1cDnyilFU=")
-handler = WebhookHandler("ef182b4b1e515da5c715c480052207aa")
+line_bot_api = LineBotApi("")
+handler = WebhookHandler("")
 
 
 @app.route('/')
@@ -148,7 +148,7 @@ def follow_event(event):
   "size": "mega",
   "hero": {
     "type": "image",
-    "url": "https://no37elephant.github.io/logo-03.png",
+    "url": "",
     "size": "full",
     "aspectRatio": "20:15",
     "aspectMode": "cover",
